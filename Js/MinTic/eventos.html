@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ejemplo JavaScript y DOM</title>
+</head>
+<body style = "background-color:#ADADAD;">
+
+<button id="miBoton">Haz clic aquí</button>
+<p id="miElemento">Contenido original</p>
+
+<script>
+//Función para mostrar un mensaje al click en el botón
+function mostrarMensaje() {
+alert('¡Hola a Todos!');
+}
+document.getElementById('miBoton').addEventListener('click', mostrarMensaje);
+
+
+//Declaración de elementos a ser utilizados debajo del botón
+var elemento = document.getElementById('miElemento');
+elemento.innerHTML = 'Nuevo contenido';
+
+elemento.addEventListener('click', function() {
+elemento.style.backgroundColor = 'blue';
+});
+
+
+//Creamos una función para cambiar el estilo del texto
+function cambiarEstilo() {
+elemento.style.color = 'white';
+elemento.style.fontSize = 'x-large';
+elemento.innerHTML = 'Texto modificado';
+}
+elemento.addEventListener('click', cambiarEstilo);
+
+</script>
+
+</body>
+</html>
