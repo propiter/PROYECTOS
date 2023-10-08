@@ -11,6 +11,7 @@ header {
     color: white;
     text-align: center;
     padding: 20px;
+    
 }
 
 nav ul {
@@ -35,7 +36,7 @@ main {
 }
 
 footer {
-    background-color: #333;
+    background-color: #2f9e54;
     color: white;
     text-align: center;
     padding: 10px;
