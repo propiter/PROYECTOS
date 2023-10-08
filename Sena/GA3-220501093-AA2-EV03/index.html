@@ -11,7 +11,7 @@
 </head>
 <body>
     
-    <div class="notepad">
+    <div class="notepad"> <!--Intro-->
         <div class="header">
             <h1 align="center">GA3-220501093-AA3-EV02</h1>            
         </div>
@@ -34,7 +34,7 @@
 
     </div>
 
-    <div class="notepad">
+    <div class="notepad"> <!--problema 1 -->
         <div class="header">
             <h1 align="center">Problema 1</h1>            
         </div>
@@ -74,7 +74,7 @@
         </div>
     </div>
 
-    <div class="notepad">
+    <div class="notepad"> <!--problema 2 -->
         <div class="header">
             <h1 align="center">Problema 2</h1>            
         </div>
@@ -90,6 +90,7 @@
             </header>
         <div>
             <h5 align="center"><br>Programa estadisticas de edades: </h5>
+        </div>
             <div id="editor" style="height: 400px;"></div>
             <button onclick="runCode()">Ejecutar</button>
             <div id="output"></div>
@@ -124,7 +125,58 @@
         </div>
         <p>Puedes <a href="ejercicio2.js" download>descargar el código</a> y ejecutarlo en tu entorno de desarrollo como VSCode</p>
         <p style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size:medium;">*Recuerde instalar la libreria prompt-sync</p>
-        </div>
+    </div>
+    
+    <div class="notepad"> <!--problema 3 -->
+            <div class="header">
+                <h1 align="center">Problema 3</h1>            
+            </div>
+            <div class="paper" contenteditable="false">
+                <header>
+                    <h4 align="left">3. Escriba un programa que lea dos vectores de números enteros ordenados ascendentemente y luego
+                        produzca la lista ordenada de la mezcla de los dos, por ejemplo, si los dos arreglos tienen los números 1 
+                        3 6 9 17 y 2 4 10 17, respectivamente, la lista de números en la pantalla debe ser 1 2 3 4 6 9 10 17 17. 
+                        Limite los vectores a un tamaño de 5 y debe validar en cada ingreso que realmente se estén ingresando
+                        los datos de forma ascendente.   
+                          </h4>
+                </header>
+            <div>
+                <h5 align="center"><br>lectura de Arrays </h5>
+            </div>
+                <div id="editor" style="height: 400px;"></div>
+                <button onclick="runCode()">Ejecutar</button>
+                <div id="output"></div>
+              
+                <script>
+                  require.config({ paths: { 'vs': 'https://cdnjs.cloudflare.com/ajax/libs/monaco-editor/0.23.0/min/vs' }});
+                  require(['vs/editor/editor.main'], function() {
+                    var editor = monaco.editor.create(document.getElementById('editor'), {
+                      value: '',
+                      language: 'javascript'
+                    });
+              
+                    // Cargar el contenido del archivo
+                    fetch('ejercicio3.js')
+                      .then(response => response.text())
+                      .then(data => {
+                        editor.setValue(data);
+                      });
+              
+                    function runCode() {
+                      var code = editor.getValue();
+                      try {
+                        // Utiliza la función eval para ejecutar el código
+                        eval(code);
+                      } catch (error) {
+                        document.getElementById('output').innerText = 'Error: ' + error.message;
+                      }
+                    }
+                  });
+                </script>
+            
+            </div>
+            <p>Puedes <a href="ejercicio3.js" download>descargar el código</a> y ejecutarlo en tu entorno de desarrollo como VSCode</p>
+            <p style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size:medium;">*Recuerde instalar la libreria prompt-sync</p>
     </div>
 
     <footer>
