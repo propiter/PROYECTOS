@@ -1,3 +1,5 @@
+const prompt = require("prompt-sync")();
+
 function calculartriangulo() {
   // Solicitar datos al usuario usando prompt
   const base = parseInt(prompt("Ingrese la base del triángulo:"));
