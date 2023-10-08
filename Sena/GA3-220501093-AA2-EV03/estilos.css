@@ -34,17 +34,17 @@
     padding: 35px 50px;
 }
 
-.contenedor-grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr; /* Dos columnas de igual tamaño */
-    grid-template-rows: 1fr; /* Una fila */
+.contenedor {
+  width: 100%;
+  max-width: 1200px;
+   
   }
   
   .tabla {
-    grid-column: 1; /* Elemento en la primera columna */
+    display: flex;
   }
   
   .Calculadora {
-    grid-column: 2; /* Elemento en la segunda columna */
+    
   }
   
