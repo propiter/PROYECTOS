@@ -102,7 +102,7 @@
                   language: 'javascript'
                 });
           
-
+                // Cargar el contenido del archivo "ejercicio2.js" en el editor
                 fetch('ejercicio2.js')
                   .then(response => response.text())
                   .then(data => {
@@ -112,13 +112,14 @@
                 function runCode() {
                   var code = editor.getValue();
                   try {
+                    // Utiliza la función eval para ejecutar el código
                     eval(code);
                   } catch (error) {
                     document.getElementById('output').innerText = 'Error: ' + error.message;
                   }
                 }
               });
-            </script>    
+            </script>
         
         </div>
 

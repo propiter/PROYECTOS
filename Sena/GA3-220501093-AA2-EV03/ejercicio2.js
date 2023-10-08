@@ -1,7 +1,7 @@
 // antes se debe instalar el "prompt-sync"digitando en la terminal: npn install prompt-sync
 const prompt = require("prompt-sync")();
-
-var edades = [];
+// definimos todas las variables que vamos a utilizar en el ejercicio
+var edades = []; // es el array que almacenara las edades
 var loop = 0;
 var suma = 0;
 var menor = 0;
@@ -14,18 +14,18 @@ var promedio = 0;
 while (loop < 10) {
   let edad = prompt("digitar edad: ");
   if (isNaN(edad)) {
-    console.log("la edad debe ser un valor numerico");
+    console.log("la edad debe ser un valor numerico"); // verificamos que sea un numero
   } else if (edad < 1 || edad > 120) {
-    console.log("ingrese un rango de edad entre 1 y 120 años");
+    console.log("ingrese un rango de edad entre 1 y 120 años"); //que este entre 1 y 120
   } else {
-    edad = parseInt(edad);
-    suma = suma + edad;
-    loop = loop + 1;
-    edades.push(edad);
+    edad = parseInt(edad); //si pasa las 2 condicionales entonces edad= numero entero
+    suma = suma + edad; //empiexa a sumar las edades en la variable suma
+    loop = loop + 1; //cada edad ingresada se cuenta
+    edades.push(edad); //se añade la edad al array edades con .push
     if (edad < 18) {
-      menor = menor + 1;
+      menor = menor + 1; //si edad es menos a 18 entonces suma los menores
       if (edad_baja == 0 || edad_baja > edad) {
-        edad_baja = edad;
+        edad_baja = edad; //y calcula la edad mas baja
       }
     } else if (edad >= 18 && edad < 59) {
       mayor = mayor + 1;
@@ -37,7 +37,9 @@ while (loop < 10) {
     }
   }
 }
+//el promedio se saca dividiendo la suma de las edades entre la cantidad de edades
 promedio = suma / loop;
+// ahora imprimimos por consola todos los resultados que nos pide el ejercicio
 console.log("============================");
 console.log("grupo de edades: ", edades);
 console.log("se ingresaron un total de: ", loop, "edades");
