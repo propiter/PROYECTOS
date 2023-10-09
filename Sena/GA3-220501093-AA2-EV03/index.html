@@ -143,14 +143,14 @@
             <div>
                 <h5 align="center"><br>lectura de Arrays </h5>
             </div>
-                <div id="Problema3" style="height: 400px;">dfg</div>
+                <div id="ejercicio3" style="height: 400px;"></div>
                 <button onclick="runCode()">Ejecutar</button>
                 <div id="output"></div>
               
                 <script>
                   require.config({ paths: { 'vs': 'https://cdnjs.cloudflare.com/ajax/libs/monaco-editor/0.23.0/min/vs' }});
                   require(['vs/editor/editor.main'], function() {
-                    var editor = monaco.editor.create(document.getElementById('Problema3'), {
+                    var editor = monaco.editor.create(document.getElementById('ejercicio3'), {
                       value: '',
                       language: 'javascript'
                     });
@@ -178,6 +178,64 @@
             <p>Puedes <a href="ejercicio3.js" download>descargar el código</a> y ejecutarlo en tu entorno de desarrollo como VSCode</p>
             <p style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size:medium;">*Recuerde instalar la libreria prompt-sync</p>
     </div>
+
+    <div class="notepad"> <!--problema 4 -->
+        <div class="header">
+            <h1 align="center">Problema 4</h1>            
+        </div>
+        <div class="paper" contenteditable="false">
+            <header>
+                <h4 align="left">4. Una emisora con presencia en diferentes ciudades desea conocer el rating de canciones y cantantes más
+                    escuchados (sonados) en este semestre del año. Por lo tanto, se ha pedido a estudiantes del SENA del
+                    programa de tecnólogo en análisis y desarrollo de software desarrollar una solución que permita conocer
+                    la respuesta de 6 personas con relación a sus gustos musicales. Con fines administrativos y realizar una
+                    rifa entre las personas encuestadas, la emisora desea poder registrar de las personas entrevistadas su
+                    nombre, número de identificación (cédula), fecha de nacimiento, correo electrónico, ciudad de residencia, 
+                    ciudad de origen. Además, se deberá poder almacenar el artista y título de hasta 3 canciones favoritas en cada una de las personas que se ingrese, teniendo en cuenta lo anterior, se sugiere que la solución deberá
+                    mostrar un menú que permite las siguientes opciones: <br>
+                      
+                    a. Agregar una persona con los datos que se listan anteriormente. <br>
+                    b. Mostrar la información personal de una persona particular por medio de su posición en el vector.     
+                      </h4>
+            </header>
+        <div>
+            <h5 align="center"><br>lectura de Arrays </h5>
+        </div>
+            <div id="ejercicio4" style="height: 400px;"></div>
+            <button onclick="runCode()">Ejecutar</button>
+            <div id="output"></div>
+          
+            <script>
+              require.config({ paths: { 'vs': 'https://cdnjs.cloudflare.com/ajax/libs/monaco-editor/0.23.0/min/vs' }});
+              require(['vs/editor/editor.main'], function() {
+                var editor = monaco.editor.create(document.getElementById('ejercicio4'), {
+                  value: '',
+                  language: 'javascript'
+                });
+          
+                // Cargar el contenido del archivo
+                fetch('ejercicio4.js')
+                  .then(response => response.text())
+                  .then(data => {
+                    editor.setValue(data);
+                  });
+          
+                function runCode() {
+                  var code = editor.getValue();
+                  try {
+                    // Utiliza la función eval para ejecutar el código
+                    eval(code);
+                  } catch (error) {
+                    document.getElementById('output').innerText = 'Error: ' + error.message;
+                  }
+                }
+              });
+            </script>
+        
+        </div>
+        <p>Puedes <a href="ejercicio3.js" download>descargar el código</a> y ejecutarlo en tu entorno de desarrollo como VSCode</p>
+        <p style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size:medium;">*Recuerde instalar la libreria prompt-sync</p>
+</div>
 
     <footer>
         <p align=right><br>@2023 Pedro Rodriguez, Aprendiz Tecnico Analisis y desarrollo de software, SENA</p>
