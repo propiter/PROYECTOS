@@ -35,18 +35,19 @@
 }
 
 .contenedor {
-  width: 100%;
-  max-width: 1200px;
   display: flex;
-  }
-  
-  .tabla {
-    width: 100%;
-    max-width: 350px;
-  }
-  
-  .Calculadora {
-    width: 100%;
-    max-width: 400px;
-  }
+  justify-content: space-between; /* Alinea los elementos en dos columnas */
+}
+
+.tabla {
+  flex: 1; /* Toma la mitad del espacio disponible */
+  padding: 10px; /* Añade espacio alrededor del contenido */
+  text-align: center; /* Centra el contenido horizontalmente */
+}
+
+.Calculadora {
+  flex: 1; /* Toma la mitad del espacio disponible */
+  padding: 10px; /* Añade espacio alrededor del contenido */
+  text-align: center; /* Centra el contenido horizontalmente */
+}
   
