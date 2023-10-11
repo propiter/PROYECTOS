@@ -65,18 +65,18 @@ function agregarPersona() {
 
     let fechaNacimiento = print("Fecha de Nacimiento: ");
     let ciudadResidencia = print("Ciudad de Residencia: ");
-    while (!validar.Datos(nombre)) {
+    while (!validar.Datos(ciudadResidencia)) {
       console.log(
-        "El nombre no debe contener números, ni caracteres especiales"
+        "la ciudad de residencia no debe contener números, ni caracteres especiales"
       );
-      nombre = print("Nombre: ");
+      ciudadResidencia = print("Ciudad de Residencia: ");
     }
     let ciudadOrigen = print("Ciudad de Origen: ");
-    while (!validar.Datos(nombre)) {
+    while (!validar.Datos(ciudadOrigen)) {
       console.log(
-        "El nombre no debe contener números, ni caracteres especiales"
+        "La ciudad de Origen no debe contener números, ni caracteres especiales"
       );
-      nombre = print("Nombre: ");
+      ciudadOrigen = print("ciudad de Origen: ");
     }
     let canciones = [];
     for (let i = 0; i < 3; i++) {
