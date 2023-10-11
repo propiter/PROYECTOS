@@ -1,6 +1,6 @@
 // Validacion de datos:
 
-function Cedula(cedula) {
+function Cedula(cedula, personas) {
   if (cedula === "") {
     console.log("el numero de documento no puede estar vacio");
     return false;
