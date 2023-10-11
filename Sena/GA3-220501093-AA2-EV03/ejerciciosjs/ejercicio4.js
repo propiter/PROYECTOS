@@ -44,8 +44,10 @@ function agregarPersona() {
     }
 
     let nombre = print("Nombre: ");
-    while (!validar.Nombre(nombre)) {
-      console.log("El nombre no debe contener números.");
+    while (!validar.Datos(nombre)) {
+      console.log(
+        "El nombre no debe contener números, ni caracteres especiales"
+      );
       nombre = print("Nombre: ");
     }
 
@@ -63,7 +65,19 @@ function agregarPersona() {
 
     let fechaNacimiento = print("Fecha de Nacimiento: ");
     let ciudadResidencia = print("Ciudad de Residencia: ");
+    while (!validar.Datos(nombre)) {
+      console.log(
+        "El nombre no debe contener números, ni caracteres especiales"
+      );
+      nombre = print("Nombre: ");
+    }
     let ciudadOrigen = print("Ciudad de Origen: ");
+    while (!validar.Datos(nombre)) {
+      console.log(
+        "El nombre no debe contener números, ni caracteres especiales"
+      );
+      nombre = print("Nombre: ");
+    }
     let canciones = [];
     for (let i = 0; i < 3; i++) {
       let cancion = print("Nombre de la canción favorita #" + (i + 1) + ": ");
