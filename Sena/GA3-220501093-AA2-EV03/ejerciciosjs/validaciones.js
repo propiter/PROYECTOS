@@ -1,7 +1,7 @@
 // Validacion de datos:
 
 function Cedula(cedula) {
-  if (Cedula === "") {
+  if (cedula === "") {
     console.log("el numero de documento no puede estar vacio");
     return false;
   } else if (personas.some((persona) => persona.cedula === cedula)) {
@@ -14,7 +14,7 @@ function Cedula(cedula) {
 function Correo(email) {
   const emailRegex =
     /^[-\w.%+]{1,64}@(?:[A-Z0-9-]{1,63}\.){1,125}[A-Z]{2,63}$/i;
-  return emailRegex.test(correo);
+  return emailRegex.test(email);
 }
 
 function Celular(celular) {
@@ -26,3 +26,10 @@ function Nombre(nombre) {
   const nombreRegex = /^[A-Za-z]+$/;
   return nombreRegex.test(nombre);
 }
+
+module.exports = {
+  Cedula: Cedula,
+  Correo: Correo,
+  Celular: Celular,
+  Nombre: Nombre,
+};

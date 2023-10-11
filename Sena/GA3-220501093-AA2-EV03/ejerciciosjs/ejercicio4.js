@@ -1,5 +1,5 @@
 const print = require("prompt-sync")();
-const validar = require("./validaciones.js");
+const validar = require("./validaciones");
 
 class persona {
   constructor(
@@ -25,13 +25,15 @@ class persona {
 
 var personas = [];
 
+var cantPersonas = print("cuantas personas desea encuestar?: ");
+
 function agregarPersona() {
-  while (personas.length < 6) {
+  while (personas.length < cantPersonas) {
     let reg = personas.length;
     console.log("Digitar datos de estudiante # " + reg + 1 + ": ");
 
     let cedula = print("Documento de identidad: ");
-    while (validar.Cedula(cedula)) {
+    while (!validar.Cedula(cedula)) {
       console.log("ingrese un nuevo documento de Identidad: ");
     }
 
@@ -64,6 +66,14 @@ function agregarPersona() {
   personas.push(persona);
 }
 
+function mostrarInfo() {}
+
+function rifa() {
+  let aleatorio = personas[Math.floor(Math.random() * personas.length)];
+  console.log("la persona ganadora de la rifa es: ");
+  console.log(aleatorio);
+}
+
 let opcion;
 do {
   console.log("=================");
@@ -78,5 +88,17 @@ do {
     case 1:
       agregarPersona();
       break;
+    case 2:
+      mostrarInfo();
+      break;
+    case 3:
+      rifa();
+      break;
+    case 4:
+      console.log("gracias, nos vemos pronto...");
+      console.log("=============================");
+      break;
+    default:
+      console.log("ingrese una opcion válida: (1, 2, 3, 4)");
   }
 } while (opcion !== 3);
