@@ -55,13 +55,14 @@
   padding: 10px; /* Añade espacio alrededor del contenido */
   text-align: center; /* Centra el contenido horizontalmente */
 }
+
 .boton-grande {
   display: inline-block;
   padding: 15px 30px; /* Ajusta el tamaño del botón */
   background-color: #007bff; /* Color de fondo */
   color: #fff; /* Color del texto */
   text-decoration: none; /* Quita el subrayado del enlace */
-  border: none; /* Quita el borde */
+  border: black; /* Quita el borde */
   border-radius: 5px; /* Bordes redondeados */
   cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
   font-size: 18px; /* Tamaño del texto */
