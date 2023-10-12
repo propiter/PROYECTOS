@@ -137,7 +137,9 @@
                 <h5 align="center"><br>lectura de Arrays </h5>
             </div>
                 <div id="ejercicio3" style="height: 400px;"></div>
-                <button onclick="runCode()">Ejecutar</button>
+                <a class="boton-grande" href="https://replit.com/@propedro0413/ejercicio3?v=1" target="_blank">
+                  Ejecutar
+                </a>
                 <div id="output"></div>
               
                 <script>
@@ -154,16 +156,7 @@
                       .then(data => {
                         editor.setValue(data);
                       });
-              
-                    function runCode() {
-                      var code = editor.getValue();
-                      try {
-                        // Utiliza la función eval para ejecutar el código
-                        eval(code);
-                      } catch (error) {
-                        document.getElementById('output').innerText = 'Error: ' + error.message;
-                      }
-                    }
+            
                   });
                 </script>
              <p>Puedes <a href="ejerciciosjs/ejercicio3.js" download>descargar el código</a> y ejecutarlo en tu entorno de desarrollo como VSCode</p>
