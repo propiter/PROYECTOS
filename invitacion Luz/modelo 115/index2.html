@@ -3400,15 +3400,10 @@
 
     <!-- Scripts -->
     <!-- Varaibles para JS desde config -->
-    <script
-      type="text/javascript"
-      id="www-widgetapi-script"
-      src="https://www.youtube.com/s/player/9d15588c/www-widgetapi.vflset/www-widgetapi.js"
-      async=""
-    ></script>
-    <script src="https://www.youtube.com/iframe_api"></script>
+
+
     <script>
-      var _pathApp = "https://www.fixdate.io/";
+      var _pathApp = "";
 
       var _pathProducto = "";
 
@@ -3479,50 +3474,18 @@
       });
     </script>
 
-    <!-- Soporte WEBP -->
-    <script>
-      function support_format_webp() {
-        var elem = document.createElement("canvas");
 
-        if (!!(elem.getContext && elem.getContext("2d"))) {
-          // was able or not to get WebP representation
-          return elem.toDataURL("image/webp").indexOf("data:image/webp") == 0;
-        } else {
-          // very old browser like IE 8, canvas not supported
-          return false;
-        }
-      }
-    </script>
 
     <!-- Listado de js con version dinamica segun modificacion de archivo -->
     <script
       type="text/javascript"
       src="https://www.fixdate.io/modelo-invitacion/115/langs/js/es-CO.js?v=1688497271"
     ></script>
-    <script
-      type="text/javascript"
-      src="js/jquery-3.5.1.min.js"
-    ></script>
-    <script
-      type="text/javascript"
-      src="https://www.fixdate.io/modelo-invitacion/115/../../public/js/jquery.cookie.js?v=1645580925"
-    ></script>
-    <script
-      type="text/javascript"
-      src="https://www.fixdate.io/modelo-invitacion/115/../../public/js/change-lang.js?v=1645580924"
-    ></script>
-    <script
-      type="text/javascript"
-      src="js/waypoint/noframework.waypoints.min.js"
-    ></script>
-    <script
-      type="text/javascript"
-      src="js/parallax.min.js"
-    ></script>
-    <script
-      type="text/javascript"
-      src="js/popper.min.js"
-    ></script>
+    <script type="text/javascript" src="js/jquery-3.5.1.min.js"></script>
+
+    <script type="text/javascript"src="js/waypoint/noframework.waypoints.min.js"></script>
+    <script type="text/javascript" src="js/parallax.min.js"></script>
+    <script type="text/javascript"  src="js/popper.min.js"></script>
     <script
       type="text/javascript"
       src="js/bootstrap.min.js"
@@ -3533,7 +3496,7 @@
     ></script>
     <script
       type="text/javascript"
-      src="js/jquery.fancybox.min.js?v=1688497215"
+      src="js/jquery.fancybox.min.js"
     ></script>
     <script
       type="text/javascript"
@@ -3543,10 +3506,7 @@
       type="text/javascript"
       src="js/svg-inject.min.js"
     ></script>
-    <script
-      type="text/javascript"
-      src="js/scripts.js"
-    ></script>
+    <script type="text/javascript" src="js/scripts.js"></script>
 
     <!-- Loader -->
     <script>
@@ -3662,7 +3622,7 @@
         wrapper: svgContainerMusica,
         animType: "svg",
         loop: true,
-        path: _pathProducto + "img/img_musica.json",
+        path: "img/img_musica.json",
       });
 
       animMusica.play();
