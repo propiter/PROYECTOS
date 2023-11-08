@@ -408,7 +408,7 @@ section.portada .portada-picture {
 }
 
 section.portada .portada-container {
-  width: 45%;
+  width: 100%;
   background: var(--color-fondo-secciones);
   padding-bottom: 60px;
   position: relative;
@@ -423,7 +423,7 @@ section.portada .portada-container .portada-container-2 {
 }
 
 section.portada .portada-container .row.d-flex {
-  height: 690px;
+  height: 100%;
   margin: 0;
 }
 
