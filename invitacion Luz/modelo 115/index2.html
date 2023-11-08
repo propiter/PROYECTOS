@@ -2339,7 +2339,7 @@
     if ($(window).width() < 768) {
       // Aceptar webp?
       if (support_format_webp()) {
-        var imageInstagramParallax = "img/instagram_mobile.webp";
+        var imageInstagramParallax = "img/instagram_mobile.jpg";
       } else {
         var imageInstagramParallax = "img/instagram_mobile.jpg";
       }
@@ -2348,12 +2348,12 @@
       if (support_format_webp()) {
         var imageInstagramParallax = "img/instagram.webp";
       } else {
-        var imageInstagramParallax = "img/instagram.jpg";
+        var imageInstagramParallax = "img/instagram.webp";
       }
     }
 
     $(".instagram").parallax({
-      imageSrc: _pathProducto + imageInstagramParallax,
+      imageSrc:imageInstagramParallax,
     });
   </script>
 
