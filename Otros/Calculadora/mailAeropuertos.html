@@ -1,0 +1,370 @@
+<style>
+  a {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 500;
+
+    font-size: 12px;
+    line-height: 13px;
+    align-items: center;
+    text-decoration: none;
+    color: #107ff9;
+  }
+
+  h1 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #107ff9;
+  }
+
+  h2 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 42px;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+    margin: 0;
+  }
+
+  h4 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+    color: #107ff9;
+  }
+
+  h3 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    align-items: center;
+    text-align: center;
+    color: #ffffff;
+  }
+
+  p {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+  }
+
+  h5 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 23px;
+    color: #ffffff;
+    text-align: center;
+    margin: 10px;
+  }
+
+  span {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 13px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+  }
+</style>
+<table width="600px" cellspacing="0" cellpadding="0" style="max-width: 600px; margin: 0 auto">
+  <tbody>
+    <tr>
+      <td>
+        <table style="background-color: #fff" width="600" align="center" cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td width="298">
+                <img width="186" alt="estarter"
+                  src="https://estarter.co/wp-content/uploads/2023/07/logo-estarter-color.png" height="59"
+                  style="width: 150px; padding-left: 20px" />
+              </td>
+              <td width="302" style="text-align: right; padding-right: 20px">
+                <h4>Gracias por Preferirnos</h4>
+              </td>
+            </tr>
+            <tr valign="top">
+              <td colspan="2">
+                <img width="834" alt="estarter" src="https://estarter.co/wp-content/uploads/2023/07/bus-estarter.png"
+                  height="312" style="width: 600px; display: block" />
+              </td>
+            </tr>
+            <tr>
+              <td colspan="2" style="padding: 20px 0px 0px; text-align: center">
+                <span style="font-size: 15pt"> </span>
+                <h1>Hola {{VCH}}, aqui tienes los Detalles de tu reserva</h1>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="2">
+                <span style="font-size: 11pt"> </span>
+                <h5 style="color: black; text-align: center">
+                  <span style="font-size: 12pt">
+                    ID DE LA RESERVA: <b>{{ID}}</b>
+                  </span>
+                </h5>
+              </td>
+            </tr>
+            <tr style="background-color: #f6f6f6">
+              <td colspan="2" style="padding: 10px">
+                <table width="100%" cellspacing="0" cellpadding="0" align="right">
+                  <tbody>
+                    <tr>
+                      <td width="9%" align="center" style="
+                          font-family: 'Roboto';
+                          font-weight: 400;
+                          font-size: 14px;
+                          line-height: 28px;
+                          color: #000;
+                          padding-left: 10px;
+                        "></td>
+                      <td width="29%" align="lefft" style="
+                          font-family: 'Roboto';
+                          font-weight: 400;
+                          font-size: 14px;
+                          line-height: 28px;
+                          color: #000;
+                          padding-left: 10px;
+                        ">
+                        <p>
+                          <img width="172"
+                            src="https://imagedelivery.net/RxM-_yk1wsGjVidUVgzK1A/w3YrZHM5hErgDqx8J-1687471436640-7L4BaCYS2AQQdZrPh/public"
+                            height="100" loading="lazy" /><br />
+                        </p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <br />
+                      </td>
+                      <td>
+                        Descripción del servicio:<br />
+                        {{ITEM}}<br />
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <img width="60"
+                          src="https://imagedelivery.net/RxM-_yk1wsGjVidUVgzK1A/XsnRarxZnP7hRzk4E-1705201530051-RJGnAwYRpb6B7DMfx/public"
+                          height="40" align="right" loading="lazy"
+                          class="Image__StyledImage-sc-65192940-2 gkPrYV" /><br />
+                        <br />
+                      </td>
+                      <td>
+                        Origen:<br />
+                        {{FCD}}<br />
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <br />
+                        <img width="80"
+                          src="https://imagedelivery.net/RxM-_yk1wsGjVidUVgzK1A/XsnRarxZnP7hRzk4E-1705201826445-LTAWdd3Djox35u7ad/public"
+                          height="80" align="right" loading="lazy" /><br />
+                      </td>
+                      <td>
+                        Duración del trayecto:<br />
+                        {{FCG}}<br />
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <img width="40"
+                          src="https://imagedelivery.net/RxM-_yk1wsGjVidUVgzK1A/XsnRarxZnP7hRzk4E-1705201394485-JRnuEXh2ei5apJnda/public"
+                          height="40" align="right" loading="lazy" />&nbsp; &nbsp;<br />
+                        <br />
+                      </td>
+                      <td>
+                        Destino:<br />
+                        {{FCE}}<br />
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <img width="40"
+                          src="https://imagedelivery.net/RxM-_yk1wsGjVidUVgzK1A/XsnRarxZnP7hRzk4E-1705198358328-4k7jzW9PGmd59vZSS/public"
+                          height="40" align="right" loading="lazy" />&nbsp; &nbsp;
+                      </td>
+                      <td>
+                        Tipo de VehÍculo:<br />
+                        {{FCA}}<br />
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td height="51">&nbsp;</td>
+              <td>
+                <table width="100%" cellspacing="0" cellpadding="0">
+                  <tbody>
+                    <tr>
+                      <td width="35%" style="
+                          font-family: 'Roboto';
+                          font-weight: 400;
+                          font-size: 18px;
+                          line-height: 28px;
+                          color: #000;
+                          padding: 5px;
+                        ">
+                        <strong>VALOR</strong>
+                      </td>
+                      <td width="65%" style="
+                          font-family: 'Roboto';
+                          font-weight: 400;
+                          font-size: 18px;
+                          line-height: 28px;
+                          color: #000;
+                          padding: 5px;
+                        ">
+                        <strong>$ &nbsp;{{TAR}} </strong>
+                      </td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+            <tr style="background-color: #2fd2f5">
+              <td style="padding: 10px">
+                <h5>
+                  <span style="font-size: 12pt">Si no has realizado tu pago, aun estas a tiempo</span>
+                </h5>
+                <span style="font-size: 12pt"> </span>
+                <p>
+                  <span style="color: #ffffff">recuerda guardar copia del comprobante de pago en caso que
+                    el asesor te lo solicite.
+                  </span>
+                </p>
+              </td>
+              <td align="center">
+                <a href="https://checkout.wompi.co/p/?public-key=pub_prod_O9lKi9pC7c6B7syhkkxzGAmKSnOH5C6E&currency=COP&amount-in-cents={{WOMPI}}&reference={{ID}}&signature:integrity={{FIRMA}}&redirect-url=https://estarter.co/gracias/&expiration-time={{VENCE}}&{{CDAT}}&customer-data:legal-id=&customer-data:legal-id-type=CC"
+                  target="_blank"><img width="280" alt="Pagar"
+                    src="https://estarter.co/wp-content/uploads/2023/07/boton-confirmar-servicio-estarter.png"
+                    height="63" style="display: block" />
+                </a>
+              </td>
+            </tr>
+            <tr style="background-color: #f6f6f6">
+              <td align="center">
+                <img width="186" alt="estarter"
+                  src="https://estarter.co/wp-content/uploads/2023/07/logo-estarter-color.png" height="59"
+                  style="width: 150px; padding-left: 20px" />
+                <h3 style="margin: 0; color: #107ff9; text-align: center">
+                  te brinda...
+                </h3>
+              </td>
+              <td style="padding: 20px 0 20px 0">
+                <table width="100%" cellspacing="0" cellpadding="0">
+                  <tbody>
+                    <tr>
+                      <td style="padding: 2px">
+                        * Vehículos modelos 2015 en adelante.
+                      </td>
+                    </tr>
+                    <tr>
+                      <td style="padding: 2px">
+                        * Pólizas de responsabilidad civil por 200 SMMLV
+                      </td>
+                    </tr>
+                    <tr>
+                      <td style="padding: 2px">
+                        <span>* Conductores certificados en manejo preventivo,
+                          seguridad <br />
+                          vial y servicio al cliente.</span>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td style="padding: 2px">
+                        * Certificada en ISO 9001, 14001 y OHSAS 18001.
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>* Plan de seguridad vial radicado e implementado</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="2">
+                <div style="
+                    font-family: Arial, sans-serif;
+                    font-size: 17px;
+                    text-align: center;
+                    color: #000000;
+                  ">
+                  <p class="text-build-content" style="
+                      margin: 10px 0;
+                      margin-top: 10px;
+                      color: #58a0c8;
+                      font-size: 17px;
+                    ">
+                    Si pagaste y no has recibido los detalles del conductor,
+                    comunícate con el asesor encargado:
+                  </p>
+                  <p class="text-build-content" style="margin: 10px 0"></p>
+                  <p class="text-build-content" style="
+                      margin: 10px 0;
+                      color: #55575d;
+                      font-family: Arial, Helvetica, sans-serif;
+                      font-size: 14px;
+                    ">
+                    Si tienes alguna duda, contáctanos al
+                  </p>
+                  <p class="text-build-content" style="
+                      margin: 10px 0;
+                      margin-bottom: 10px;
+                      color: #55575d;
+                      font-family: Arial, Helvetica, sans-serif;
+                      font-size: 17px;
+                    ">
+                    <b>3228854498&nbsp;&nbsp;<a
+                        href="https://api.whatsapp.com/send?phone=573228854498&text=Hola,%20tengo%20una%20duda%20sobre%20la%20cotización%20Aeropuertos:"
+                        target="_blank">
+                        <img width="100" alt="enviar mensaje de whatsapp"
+                          src="https://static.whatsapp.net/rsrc.php/v3/y7/r/DSxOAUB0raA.png" /> </a></b>
+                  </p>
+                </div>
+              </td>
+            </tr>
+            <tr align="center">
+              <td colspan="2">
+                <h4 style="margin: 0">Estaremos atentos a tu Solicitud</h4>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<div
+  class="StyledElementWrapper-sc-28119254-0 StyledContainer-sc-8cc4a906-0 lbdvCO jjWkFo cc__element cc__container-element-wrapper"
+  data-selector-element-id="yTiG6uxBGcbz9iYRK" style="will-change: transform, opacity, min-height, max-height">
+  <div class="ElementStyleWrapper__DefaultStyledItem-sc-81e0339e-0 eeHINB cc__element cc__button-element-wrapper"
+    data-selector-element-id="mETjcPwabWyWsZZk9">
+    <div class="cc__button-element"></div>
+  </div>
+</div>
+<br />
