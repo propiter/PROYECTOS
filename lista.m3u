@@ -1,0 +1,140 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="CARACOLTV" tvg-logo="https://4.bp.blogspot.com/-k5y-9KEfxng/WothzTTg76I/AAAAAAAAAZE/p5PqABlbyQgokEVj9dhvkdU8b4ul3F0sQCLcBGAs/s1600/caracol.png" group-title="Colombia",CARACOLTV
+https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CscF5V2rl3oJX1gDzJsSJvkj_gH4Xl0i431vm0XJlh-RiR1IAnYNhbP8liCHAbOvdWkC4t-Dp8108LimlSk61RFUTJqIe8ivE6UE_ddcmICgXf9RsiwmtkhP6UAqCS-ALXe711qZA8w9DgsUGYmOt5muoHhuyQHxao87pmGYGx138E8qWnwDemyHjEe2Oi7y26uH-ooUh3HZ4aT2_m-NEOU3WjwCIeYyC4g8pLeV50apyBLzD9XGO4mbsIK4ICxVFu7Hu3qJIZlPaKBVKb9WsG9oOM_GHcMSs9fjodxajehXpXcZdO9XButEGoDHU-YVYb5fxVZoEmlUcSf0N1COSTXZqooRKmZDeymBj_jD1zQWg7P80BubpvpcjNeg0H3SXW0wA2tuvSQYU7Ql78lGBqJJLhKlwHhw6V38WtruOi-WXro3qebZ2m8jM0mRn2RFkso_mXDNfIrhVHFWVCDNvg_iHxNCDEytrVW86h2sS-ETe2NbwxGBiWtVmqUnSakquuJviwTSHFMCYuJTz_dQSEpZIPneYiOydY7HjpFxxphw496gi9d7nATxx3kLnxpyJkBMAQ7ICQOx3x_gDxF_o5kNAu9SryWNAirKXA5Cwh4ukdZklgJUflscvAwMJPLQvTqTaQv1zelLem6nflGbU4sSxx1jmwP_QRN_5JN34N9IwQ2Q_oyIiahzlQ61MLmvGYr3STf-M6XmS3xcDrr-XJPIuyZaF19ILDFZIwdkyso4vN_fWg9QALZrK_2KUGBlK8WJKx4Bded27lzsNepvreifByJj3P88xlfwhnjl3fuLowQMei6LWZmXDknxpUdwEimr2AP1f61O16I8dV7kK4JP9-RGWu3M5I8pccCwN6DuYRNlRIqR-8w04nDwrU6pwcgFNXsjSj6q9YhOQD7MMeQRWCcoVogwoxA2JI_N6jg1Q_Uvi-o8nnTtGgyFBQ5OkeKMvTdzCHcgASoJdXMtZWFzdC0xMI8I.m3u8
+
+#EXTINF:-1 tvg-id="ANCTelevision.co" tvg-logo="https://i.imgur.com/xjTU14t.jpg" group-title="Entretenimiento",ANC Television
+https://canal.mediaserver.com.co/live/ANCTELEVISION.m3u8
+#EXTINF:-1 tvg-id="Canal1.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/512px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="Colombia",Canal 1
+https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+#EXTINF:-1 tvg-id="CanalInstitucional.co" tvg-logo="https://i.imgur.com/CKnf3Ua.png" group-title="Colombia",Canal Institucional
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalVisionDorada.co" tvg-logo="https://i.imgur.com/TerY4iM.png" group-title="Colombia",Canal Vision Dorada
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Colombia",Caracol TV
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+#EXTINF:-1 tvg-id="CitytvBogota.co" tvg-logo="https://i.imgur.com/ybSn8tp.png" group-title="Colombia",Citytv Bogota
+https://ythls.armelin.one/channel/UCv5Oy_TJFvGKXjeNzzJE_PQ.m3u8
+#EXTINF:-1 tvg-id="HBO2East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HBO_2_%282014%29.svg/512px-HBO_2_%282014%29.svg.png" group-title="Movies",HBO 2 East
+https://fl2.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCineAccion.es" tvg-logo="https://i.imgur.com/PXhCzXn.png" group-title="Movies",Pluto TV Cine Accion
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVCineEstelar.es" tvg-logo="https://i.imgur.com/v3BO4nW.png" group-title="Movies",Pluto TV Cine Estelar
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf968040ab7d8f181e6a68b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=901&terminate=false&userId=
+#EXTINF:-1 tvg-id="RCNMas.co" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Colombia",RCN Mas
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RCNXtra.co" tvg-logo="https://i.imgur.com/N7VH24E.png" group-title="Colombia",RCN Xtra
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SenalColombia.co" tvg-logo="https://i.imgur.com/Y9x16vl.png" group-title="Colombia",Senal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TuUniversoTV.co" tvg-logo="https://i.imgur.com/e6esjLZ.jpg" group-title="Religious",Tu Universo TV
+https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://www.sintelevisionhd.com/img/tnt.png" group-title="Movies",TNT
+https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CsUFMvZxIntAyxQ0ZtanI38Ov-HiKL5q-kPqAXZYieGNULP-U11k40oAmGySXURyKCWzb1VqhAaMCQWy2JWm4MSLgjnuYL1PIzzWTqQ4YWvqg39VD4ZFq9PJFinlGwYEanj3HvVPB7NCjyao_X8eTtd1GKCxhKxiG5nZlkmB_xqmt-4aasH4jDfaOskYlpLJaGV2ynKMW8RWqe5f8arUCl3o37s5D6qhTtAVi94yz9QlKqXlEfQoJKlb-BMOCMGWl5VT6QDt4Z_UcNPJ1OmwSXA6G04MPQlN77rcMnjo4GRsU2EmWa3kM-8kMk-i62FUhfVCle-5eAdDy_n32GFJEzW7KOwxWQvM7WQyWAqFxvzW8dauHaee7wImMsMS39n3ewsAgS8kTnar1t3LcLTTubbuf6iFAN_MRVBtrlaaLPq8LJVlC07ZyZtKgSCuG87sxxhfAj59vEczKUJ_EZ3H7iCuWfyy3CaZO81nvp1b2KXPv9cmO18Bpc6sKsgcRWzibZ8WeuBlsDQu2LD5is9IWwLz2Dzuq5HpK73c_t0LEecgmQ93iM1-p9z-UiY6p4YhFR1o_Qo9oR1hHJCuWZLibuUiz1_q_cF97BaKL11dqtrn-AyLsGWQMC_4tH3g3aAHwi9U8bu7i84PMZjX_IDihHtMzp5E1i2WuLMtZNY7shw96bp3p7bJro6kv30g1k6FTjGKTJgFSxzVQuE064YFvjqIuwoMnyR8iXGvqVYqTQz55JCpupDRFzZcbCKj9aVNGH65DBQ0ejztQJVYeDehBfqvo-lWG3SySYLyHUI-O4MePkvMS2b_G1rKI8KcYvCC-ihOm7j3hE13RUhdth2uAl7-sDZngSJo3PICVfXJvHz_EYNiuxj679Q_MRKM9IDr6n-4l-gOuLcuzbelVwbVBaJpQh-kR1xtdtc7A2WGzV75gSr3njgqoRoMfq_El3c1UuhRXtIBIAEqCXVzLWVhc3QtMTCPCA.m3u8
+
+#EXTINF:-1 tvg-id="SPACE" tvg-logo="https://www.sintelevisionhd.com/img/space.png" group-title="Movies",SPACE
+https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CssF7NtfZFzfvPLp1xV0amyEup4OQeS__7bOyHSicpFi4xtc8DI-WOb8oy7GXpqhaebBU8d3ShViCFkvLQpl6dkfOLlNPL5rzb5XLlHrOwNgTd3YLb5OFARXYNcZTVj-WOiegn5cZnKgoBG3L5yoNenKHUbECfKqHQLWFX1ttKtBGQhD8kSMdEcJysrQ2kj1DiyxrRuhqhNfd--FYtmVHKZ0LE6w2e_xnjfGm_F_i4NTjqpdjX_OwaQpGfsL4qt7PSTal4IVlyUOFInYKjIJSGZWoU5BItVdB1hYgVYw1p-EGXIfuVJ0oSHLHBbI4a2xNnQxSGAJaQ8Bs9Yii5zV_KvHLuYDCcre8ZGdsWxu48lV-aTOz5xKCcfVMUOHb8D0Qtv1FL1z6vQKZEPTE5OjCLwMeIaEYBI8PS1kRK3W1sPqmsb-XEP4mdSEbrGmZCGj1dC9BiyQWR8xsWZ7GkbClO_R_dGRzls8GxYEyxqFt-3PntkpGQKlk7dOyLyi2ZpnExhD_v2sTNOWylomNPDe2ZZHmQ8FLlhIhclBFK0Hwzyl8cOKNWYJk7t2oD3Vc1ne3Kosi7iipTFM5y7LiTCU_nLIly6nTY5efDVKLq-ZDz04514n-9N-6A8ktzXjuvskCbsFDs0ujEGibMdm7Yn5l-q-wRdVS31pc8yK3LvnLf5eSkz9Xa9vT37DJPfoV_Qhvbjt9gldqXVAyQDozyOCt7yeE094i_AWagL7Y4BWp0QrTvPzSL2iyZspW4DRGdZ-yQR21YNDLNHQt31_3Y02Ib54a3inZhuteZSlQKRzmL_HgVS5K97UBEjSaFwyGyuq8SEj8oS5tA77dTVACihlfBIhoFI70cbVt6_1g2X-ngJibWduQK8E_qEfmRJH_9hD69SFk59Hsh0Jfl7WruC_q7isFWFr43_AcQ6VPyd2h07PevfNK0xZllxFFYvBqxoMGA0fncDZX8VRdRkgIAEqCXVzLWVhc3QtMTCPCA.m3u8
+
+#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://www.sintelevisionhd.com/img/cinemax.png" group-title="Movies",CINEMAX
+https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CrsFzR_pfE-XkeHVEHEgQuDr5X69EmMnQm4tUoEBr2JfFKuvzGiwlyITvOWvOHnC1HcQ3gvltvxDdHxlf5-HRbtN7uv174qgTWmjIYp29SgP5UZk_b8-HfAG52AeDtxMnOvaujYCeEBccD_Lpbq5Se3XeHp1H4s8A8f-G6Aebc8dqeP4ndGTCT0HZ0ERY3oGBWTPtbPxWySZ_W6sycJIMU8iIh-tW7w52C8NMbUyBzv4Si5vMvjrZuUOXIl3VfMJf-WmX-wQoPL-iobCo_S5kAGZrAabXYGzl7q9_zTPUMBp7re_h-9UqHacSH4KGhD6OJh3X_CgatPr5mrMI6bpdcJ8ZIFUnM3nrNBaLRFpRTCW_tbjqvyN70V8WfAtkbMH6Y_PZZBR6wBg8iXjCCQmOxE-F9jmZuqz1uaLpA7dLTTw8QWwRbLwn6w_Jz6qnEmwwBpGfUQZQy9KXTSOmQKE1dR0i5OAVAbG3hITT9KwX8GdsETFy_ijQJw3O3GGRuydoGbWOLrz9Tj3Iapu_eD0pQgm0DGgmyZfo9rYi92ZYw73pT_m5huLncKlXVTzs8LTeTpQZEYgLaxsFaNtofMO-UN-EUnMkZMNLqjJ2dxzS5ot0m_dMT-G32RA8cF19z8qXmYOywjzpNMF6uRQwllvhLorBtL4Y6aAIjjTpVo9oVvkiCLhhLVAHiJ_d8YGPEnpS0jVCpnudFGZUDsGEmXtDWBoDI1EACpFDaxLWfwhMDJpIDw9bY-9EJuyTilB5OO_9IdDblGq6b57ceS-3iZTbKJ1qbdV4sF_7tN-8WhJK1a5Ih3AkuzxwGULv_lEtvC08fzCVR_mI4bBTbt830U5BwgH2hVU6WSwZLh-ZpbReLroq9tIw8117R7i3zHHJ36L6_zpreVySHzZmh0Fjlq5y7REedELxLWSKgMt-bh-GgzP88-YV1xQHlcyD5UgASoJdXMtZWFzdC0xMI8I.m3u8
+
+
+#EXTINF:-1 tvg-id="AXN" tvg-logo="https://www.sintelevisionhd.com/img/axn.png" group-title="Movies",AXN
+https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CskFL9kQLZF22QpVP9K6ZN3d6QC2vBhM_Pun-AyGXJ_nmytBOpcVVunoyhox4zrZeHK9Eme_zMtmhQhG-GIknJqkiDPlPzSUUCZMoj7YpueUlfG8QJrDtKAUaQLJXpD_sf7oP1YQr2jLnC4Zm86NwqnMGrujyPtWx1X5ZOPjR00_fqib_HM4ZAwjDlm3wMqPctezXQWxFWlrk5zsINq3Ytw__Po0b0pppzkx1L9gv2YNtpWROg5n6DRd-TGlDi4LXJ0JUbgOwYj_a4rMHyrngl26F2bNkWrjFyumDRf71eANuQYLP09s2dj2_uiaNlJM9-KQnrA1b1HI_84h4Oh2HY9qfgD7Z51NFMxUxsGvV2QkuHEl-ZjSSRTIxgNaHkLQV5zoxou2IjUXio7lCd1KPk42aR9vNCIO3l5PXS1vj_JWTKR4hwQKAg7s_d_0lChsHii8Nof3kAo8YaSGOgmiiKhkpTCBfqJsw_EXbzkJSLEGgRwhHcBAl3sRc4T9ihj1zKjU5U5RrQAw6HvazZfZfK8YEE40fultV8bw84rQGMI_2Ey9zwu6IlvnhnMOAObnEMxBrdQdcIS2HblmjvsZvgk0luEQJKxzwcXwXMdHtrX7fgDq33OPVh0-x1TvCkxFejYfXO7TIl1umdihWlHroDOcbygFd6CDqbc5jo4VvaF7wom3GJrNsLKTb5OChm5gJR4RtS6SqFYK7m8b_oVMH6c2nA7aZAg3MwRF_tXMb-smA04QhOIVcEDhLyXWfE5vKYIOyHYdVUMTt6MG7eJpK3FCMTiKhOuAutG4RMpABx0saY77tq-ZPsMhfU5zL-LJgmiM-20h18JL7D0Hz9b4EkZpuXTuklpfuvOgcPf5TZ5FKuUHiI3t7hDyk_y2vjLsCxV6xjMvVKbWnWu6QhwCK3hkCgyyElasPV0IW2odzh3fEvKT_hClVP36k8MaDDe6NwxmQVnFLKk2XiABKgl1cy1lYXN0LTEwjwg.m3u8
+
+#EXTINF:-1 tvg-id="UNIVERSAL" tvg-logo="https://www.sintelevisionhd.com/img/universal.png" group-title="Movies",UNIVERSAL
+https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CtkFLzDrZ_uRYsklYqa1tOuVRHErp-0UvjIS7rrPuWR7CJl1ELMti1H71wpCEr5Mbtqc1quvGYS4NjZw-YDAgh3pLG25ctCW042uumutVyWaQ_XWmuX0fW2X-3K5cu27Ktt02r25kdCMx0ZjA0mto69yHhOvCuF6duskrBhKIozrER6fDmb4wHoZh8OJqCrUmyXBn0W2NeaAqDGco31b1n8MATF6pJ8xDPo_gI2PHm7jdjQamH954Qr7vdEPOKS7Ht1cbsVgfWppf8Nxd0SWLQ_ynytAW5bg5owKcLXUYuBPpTjBbUfb36PdPA7TGKSEXTVW6oL8Xy3P7CZAtCqlZDakMHt_Tnds0oeS1xXs_uCp0mQwukWirBf_bBv3peVejE8_7JPRLHE5gmnjynuS6fzwuyG1vXm4TEIagIzqKJo-zCTdeOSh1lTAbXd-hFbwjWMUDtIUijZHULxBzkKtcrWZM6LX3EKX5gUA0hxmvaEj88kO-2raT3XAHTXBU-S3jLF8P8EBin-S6OFvgc8LlzMQNM9hO-MYJDORLvd9ajHJDDCtxTahcCv-vTutfrlKd7IFjIGbvZZLcOIxzEswq0OnhjlWG5QnT68RebZo9vgyCCF3Z1KwBKeq5xHozW5hJRsUWvWXH1WensG0DMlc84GAmusYVWSRbeDEpllGxaLy_wzr595fkDkRKk2JsHno0m0tPECEVROuxgjBpQo6KkyPYWQpHo37spTWN3MJhJKFMzv7c0IT4sx3akjsG3GBb_7J5MqQbBgBA65QnCbOMo7L5Z5vMCSLk1U2gD-LtnYWSSJ7pRFH3YM0py5GRT-IwiXCsUfA_awMx_JPuR91ddotEiSPPMBrwHksDMN2vfzvOuqwXDxuXILOxbhPP-FnTY2Q3JANiK104Isqzb5KQIAX0CSfLYeBpPLGg6Ep9cWl-dz-aQC-MnasUZut_SmbnUmKItE_KkSJ-fXWGgwS57uBcNgdRhFMgDogASoJdXMtZWFzdC0xMI8I.m3u8
+
+
+#EXTINF:-1 tvg-id="FOX" tvg-logo="https://www.sintelevisionhd.com/img/fox.png" group-title="Movies",FOX
+https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/Cs4FywGTeO-XZ3bYhTc5yxNnG6fE_2vum6NOXfP-vB6qJxNUb-9w0rIM7_HOQW4aOvyVQ1aPO0-a7UWJ5BYSuE7WJwrO6I8FIreP8hn5H7Hm9rEhrtszxjEFV1OveofJkN_EMEp5nggR3a1ePhq7kM5jr3fQIe7fxBKhU1KVhiiPNZU2cjkII0qFg0PxsIf_hFGo7CPGAIhfZNB42WQeNBFiIu_3oAW0oNgGUIr2q-Ku01RzDcu_0OK6puIRcYNslwZrPuDUUFxGpB9C4scy3bk5-OGo6k3inNxpGwgbyMaYKEodjPdFc37cQVMdFs9OUOz13J_GK1IDQ6bUdrR8LbHn0sj10vHV1FumvcGW9KvuS2U-V3O9Y53J_Nt3IvSAKuFRNeeP9YyU6ZIN1uNYDD6Nb-InR8xO3gJEno_MjEuk8HcdhaepoZAQvh6iKgjjx9xp2rIOLjqUhLDC4IC7y_SZSs-S9xXF1bxgyJfLnd2yyORbJC0UVAoWeix3td1LEiaR7O9JAomEYSjFuXuX0ojo1TUuHgBqJTief6WTQZePjTXjSXSstFU4AnlGAE0D0FpV0t6TcalwCasYl4LSvgpVCEm2YNFgmjnR5w9_HR-LfNWv0Etrt20i-3GWxa-_BL5tcHMlHg_gl0yg9DfDzqvUEu8AwIEguGbmtKiVYS_v9kmv2wiz_og4vY0R001v-dhvLWlQQ2MerSdNpoylFkdizYYhIbJzBaJ2-to_FwrwYZVgv_a4iYUoUJwES-nNdit92DRlUfkjgN8CpykvSmNgqt9ZxxwhG626Nv-HJ_osLMJzUpbpueGc5nIsWzRpUPeh5E9BFNKvxymUCPnz_aSeKBJtQq0ky2w1XOLYfU9bhqiYNt958u2ptma0iBF3SFggDccUa63XTWK8JfKZ0k3uO3VCrdOIW2gh9KVAO5cyy9iLTZ-ArRolqX3BLVMNWxoM9SXJVRGbzAFWsGjIIAEqCXVzLWVhc3QtMTCPCA.m3u8
+
+
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://www.sintelevisionhd.com/img/hbo.png" group-title="Movies",HBO
+https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CsMFPkeox1WGII13KouJ2ffBg9qjVhiVvv61BlvLSPLVFMlOlBdHD1AvAZ1NdW5WwLr8heYxfGSSW9WwlxuSpzeHFdzZNYbESsY1s1unaFx78snvAPNQodaqFirX0DThTMx3E-oNN20b93S_KGn3TsGU5YtI_XB8nBWekkUv4j8EiM73VBr8qZ1VxrepzK7H1jyTdVbuOBTVyMcPCob4TeYfEz9KD1vQQTNarzDwc6FWiIeF8ukD4HUIBQZb-ve6wU1rNEe7E5VzEhWy1OUxOCnHs28TQQWsgEtCladpjBHV39cAm1UruTj6h932uYHkn8GhOjCvS4CiZNwm1lZ4UnX7d_NjmN2imdhqIIvPJesJCPieM6JNbSC8-zLPpBNtm4jn81nJpWUDNo-51UuW_SyGs6eV2-F3Zv8vvTpvvR_uDww7IsmTngocIYtv3tzHiqK_n-WU9uoqm_6z8RVEZAJE_AU4BMI4ScNoRlRWHyNz5DOkXvYm-7J83vtDML8kgd38VuRsSPHmyFI2t4qxKdtJHc7UTji8gJWbvZhqMy2volgfV_ZoIQHE0G0h5QsG0H0M68U00PkIsjGgAzj3hLHxkFFdRKdLQWzhHshRlXS5q6ik3r4dJrPefubCKc5oz53qxSDv9s9xDdZwhwm37RxZWIZ86Rk3CNtMNpotDl0WkgbLc7KfuUagAsgGuBOIMTBXQpyx8nGiUY-OPbOLjKPGYhExBSoXGGdAaou6NupR8btI2VuBbUYP-8giHKiG11SI2_gndBEIW4qohSJ-qLilCw6W8MfxUO8iO65wgj8gCm28BMhJcPIefqOHLq4yuKsWQ3o3fxZ_I77-uZua77BBCDWlwPCnLovQITlNyiOCXKa5JQ400zTvfYBH8LetPOjlPPX2IvqukNQe0GD77ZWzjYo9FRjV-IKg3TcCSrsij-HURlIaDO2f7qtbEiwJx-altSABKgl1cy1lYXN0LTEwjwg.m3u8
+
+#EXTINF:-1 tvg-id="CINECANAL" tvg-logo="https://www.sintelevisionhd.com/img/cinecanal.png" group-title="Movies",CINECANAL
+https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CroFkUYh82YBDb3q3mgbb0iRPjuoD_I8_A3zquKAaP3e54QSyrKsNemZnNWhK5KFbb0HOq4NikbWYFA5dsc1iBffHW8V6nl8DgTW4X_tcKm0uLjS0OVoFOj9WjlwILdmN-VNST_eTOAc031RyV8H2JZFlK6N-sTJO5bOYPl5ljwm_cRERTf5SbJqxbmmow0PHZIyH_QMq3F6-8FxrZnZ5ak-Nt-bMW4ouYMvnWcXejbZx3JqZuTS_bBFoWaCxgWsXO273yf2y--tVLyDx0_-eKlIb0Fle0CfTThbUZmTEaChghoWyoXMHnt8wjzFz-hQyaNO87vUqKroh0ckPgmIBseAVygvr10WotiTnaaYWCmy9HgLJJp4cf-wywQ1jOy6tWcUEJbcsG3ZORt8-IqmbXwbZ2x5Kr9aUZtLwgY86F2rtvZT21D4kmOH8tr1g9QEraeiJndlKyq3W3x7xddYvaKbL35jkDXWQrVw2ODfX7GgMkslPKkAALeGWVrCkkGo-ETg_25AANXQsT0Tgy58XPNWyFTauB8tpdDfYXhlknwVfT9wPAg_nh7VN4t3ySrHlXv9jnIm0F-lYefIpINuishFTCYZm9whNzU06mDLCfWdx7dSzhxI99Ehar1XhWFMzlllnu0VdYAF4xEaIU1nkJSJPQsBEiCP7Yz-Vm0cVFB_V4GbfJ8hfer8qaoY5k-NeZRbbrQz_RSsycAjMrBjC9l0CT6UMFvMb5HCvl5IMf7Jto41f0dSwgz2MPM_DNZDOZC59Ab8HmfENlW8ZQix4GT7kinCESfiJcAtfEg85OkSQJvKoXHZduSGg8NTK5yAExr7-ZHYMozwrpYPJAOLPB3_Pozq0wV513C9wrCqeKHMYYbaY5DaKe7XuB2V82vBErrmpVuxAW2xfEKmklRlWZlTlypPPkVOiUibNrMaDO5iP70SJ4JoLEsXYiABKgl1cy1lYXN0LTEwjwg.m3u8
+
+#EXTINF:-1 tvg-id="History Channel" tvg-logo="https://www.sintelevisionhd.com/img/history.png" group-title="Movies",History Channel
+https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CsgFXLuoIWEggpxVEef1yP7e5uc7nnpM4Xb2IIelT4EuWfL61jm7euT4cA5nbWx1zp0j-_mWkr8--XvmJyw1qzXzPhtiysoYDj4eLBbS9S164kr24-9W_Sv7upnpwrTK72bal_3f9McFjCMmBUqVOYmZYa0Kq9ZOBdHG84VJQdxU-nj7jj3UkkNl7mh07Jn2gx3ifAj0FsNe_DWyRI5kGKUZs1ywAYY7KecoV5JEyhAVKdoZeoJbC0I2Z88YzzK0VWLiULrzzzJXqP9CQyOoF9SMlnCHdRq6dgez5oiINb5t2MCHA5e_ojTXNudY-7-W1rtVnLUGZehDTuykSJMKfuFyTP-UKYio21K6g5rdbHKv1zNA_6IxJcBe5FlMv8qS6ALMsR31rqUIlRchIGd3wo5NNGwEdXbJLoAOxLndgH96F3xfvk4SDYSxfg09Y9fNaFdMEvyuU155Fu9l41GjcaMuxpSxxyejS-M3K2406YtXZ3AyhhiCQsERzirAD07WNLsWfu7FjPhFeFAJrQe-huo1YrSw43iCPZZ8NpGZmq51aYdb1jx74i43_HuOmSzjfcnRsnrKMAdDyP27ztj1WfT6U0W-4TKBq_qNnenZSF17JvASBNwk0OWY6MsuxeF5W24Sd7hmzFfe8RWHYtkt9_mgAAYD2_loFVkvhnEjgwbk9a--IkFtX_bcN0QlaTSd68_hvz9TlzivrBOYTOhhq1jch328-bqLhITnf2ewy7Mck78VUw0g7EOMLc54n9T_Pvo0orVXl_FMJbxDSiSxepN2RL2YWufkhpzE9I6rxw_y_QOOqJnpFudDy4bXbOYfrBSGebCU-Jl56xl7Pvje5iNd6ZTNehM43vpQMuwceVDBje0y25IMRr3uDPcpFeeEsc1GfpWHna8SJBqO1RnV1f-y2pou_TPZWbYyfeyGtAVPT9cf1ZQnLBHWURoMALVa2BVi35puL5dBIAEqCXVzLWVhc3QtMTCPCA.m3u8
+
+
+#EXTINF:-1 tvg-id="ID" tvg-logo="https://www.sintelevisionhd.com/img/id.png" group-title="Movies",ID
+https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CsYFhZtVix7ku_rEuFvhxFQsamJGzeojTAY_8P0aoBy1BSCPQbGZW31Ea8Hz4VuOo-XgQUDM6j3sBMiyGQFUushDGxCpz-lcO_xpHVwyeQV0UXotjOBBHOV2jlWhhVQC8ZO824AML0YMa99Dh6l-uHILCn3yAfCCe9vXcOYpi3fyeTQs4OLmRRoyajbb-R1PVSlmcbW2l1bZ2Dxvxb60XbwNFpLp6_MnVsbLMKwpAvYsAiKwrue5JclfufLOSQ4JDqBPtLiv_-e92-zZ-C06JffrnupDwR0ZPEZtSgAYXuk8GHh8wDizb1tO8jegfiqGBRdtoFvAmNWj-ZSrLbFcNDQZeJEzDhE-96gJ88U6KKhStEUemTznVjaH4iJAAqSo7PR-_saiFYO-vxbEOLUVLuMXLdAra47Obe_htVRxA4FYlmPWjQgtKfn5GKejLJlibsAxy5HD2I9I3M3WfXvS34LrlM7xIuSlZpKYPtwDGoQcfl-k0O7-vwfEYiYwW4S5dGfvNWVDJBDW3cKFV0LxvefgPfSpJ6ni2bJFL-CBwd2cPV4GaJYAdT7jsce1iACfdaqdNbrr6U-1W6DZUTf5Go9xstBb57KS90xCJW1um-9Qv02Ebe9xDGQbD5nDio9lDZSApCwjETqMgpvATJYudMOKQMCSvrGix1Tq00fHRr70ToGley3YbYE8NB_W_f0pxprZuvXijMDLPyeYCZyuBxjsq66Rxg24N2I4IzGn8UdRfb-zq3YAmjsZ9Id1TR8b3pqEyLjFN5TGprO0yGl2J4I_N0CPqxtVYq_BZuBd21ZVEuSkyRF-1sxWQM7M1SW54Wi1U1Bd1HoLb1lm_tXmrYMN1myo3LJKe0Gc3IvD2qS1v5vbV61NVc5BNsZZRz81Rn2WakVmo33VYhNcOlFKN6CVPVkXcFk1WagRm2Gg1NSR1nwXIJzUNQ0aDPQlTO_XsZco4h-TtiABKgl1cy1lYXN0LTEwjwg.m3u8
+
+
+#EXTINF:-1 tvg-id="Natgeo" tvg-logo="https://www.sintelevisionhd.com/img/natgeo.png" group-title="Investigation",Natgeo
+https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CrYFWbJBL6ezsSL6gFWoDRt1DMYx8xNEQI9SeqzYqILODMzjWDhQSduUqpBxD1KF_zHkoTCSjd1iSUkkcFt5l6Th9gF_nffTGUzzrx69VS5y1Ta10f6NJv82hXixb6n5VKugL4KxEuZIZ8ZAWN8xm4SaM1GTnHd-oE10xYYB5n588PlEidM9L43FIcivFwqoK_w_Q07wGGlRdamdb-KImwaDcXWEtQ_SiQ-WmRBCTYSYeK4yyKyHqxcsCI_eJvFilZRUwlsoBAuk9wIOH3iHJVL8lncV-E7gu_bwt4Lb1bQo_FbKPWfOGP8j-U70yOncL6nli368e1j_53oEIbbUukAEI4wiaa3bC3IaDoxfhPYNQkgF4zzE0TVMpEqOfnwQ71eRAoB4dEF22qf_UVdcGIqdRU2b9tNg1owgcDFFxOJHGefbF_6dI--iLWsKjHVuTMchIknTVGBjm6oW_XE7BGML18IAX14o9Q_6xFLrkakYI05hz-IWFjJvO-C-vpZRok8h5Dgs1XX3JB2wepleWi57biqMvJvRao8kDFKJOnY0n0N1KjtLqOdKYCJbBFxoF8hbLDauvqeyvrPWYrfRqSGpZ7JnvzP5NJx0eMdD_tqdQwFOAjyZPn209ckyR7-cmLXFI0PN0wEF6cVi8Zw76hYyio_mMoMhY83ZdpivAoBrIo7uCoZh9kZILN87O8lW_1OdTJkPhv-vTUzRO4IoVyT1gaBhmy3SbFiXOSMJENSqcJ0UawyUQMoJC0j6K47AizgrGM9XzOKcpcn4bOR5cEVmXZAHquWzbg4zfWpR6cBPaWLpHyzpavaf7fqWEPb_CBI6kBUrOZ0GaJQkfyYTvfF5alIBTCCwJv-gnB3tF9unUJ7dGaXJVL9jsPeY2qGZoAXcj0ToQ40DzO_jo36tiLpZtebVms8mwxoMwqA9ohGMxUITkoJVIAEqCXVzLWVhc3QtMTCPCA.m3u8
+
+
+#EXTINF:-1 tvg-id="TELEMUNDO" tvg-logo="https://www.sintelevisionhd.com/img/telemundo.png" group-title="",TELEMUNDO
+https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CswFIsK9vEqYS2GdR47iMiaFU5uPViOzRVStByDCwCGRHv6edFQF6VJjUrqjKjJUrymvnFoLOYAN45XKEGf-Q-Ji8KSVk1ULuxdGWlqYr-h9FwiOgtLairpCoWH32L-kiOb7mrpWbyszV85xq46LAqAxvlgiLwNpARn80Y1-R8xN8ggAkCN_G0iMXE1UQfw-1UfHXGT-wEgFPnS4_kMLX8fagXMoHIETCXsn5H1AFgDsGnAVjN4ghEnBy1HuX7a9jn-bgKpQBOCxNTerVIlTRhp42EmjxS4Uno1MORnxiiisjO_WjcykzdPGiD6EN5iVRKu_pS8lRneMfwEH8DansfWrwLB5ZVRtIn7uU-sVmfuaBiJoA3QADtblGWE8ebpkcwQpZxPShtHuUMPzzSYfAMBeLRjX6CFRHnC_eh6m5VIuOpt3_h597Hy8PgfC7cvyBRP1LKaQqXj_vjgO7irIGTCAasw31BiZ6BHL3ab_AdfkVyBqkzNz04-bDY4Aregn1OAZWon0pWYe0OFb-Hm10JPS3xhjRVoYgxSoyMwCid8IwxxueIL0P1tV3gF8Uy7-1iUifXZ1KcQSPfiJrdtmNdFWtxfUpxZy0yi9pTXHsj34yHkzDEhnW97yp8rtL_Ok910qLDTI8PZy5tPS3MKQFGyePf2kMmK6Aqi0QjODoQyEKif2_EauQJL5757ryGWX384N9NpoXpeztthrzon1OWmwgu0BrPw221HJkSXdWwkY-8SYtiByJ_UiRElDelm5wwnxpceye1a4C7Swyo0RqyAI9606U1Grtsu8SLpnNxm6CcVPPyHdMHnPzLuR4g1-eUtUTtrPm3k0cfh5vGCxZldWTMVoVcjb3XR6uj31CrMKLXD4dXGB7pU_5LskfSgzkIDnfyYqn7kGeaSgCoLc-IM6q9KuKm9qH6DfS6HARAqPTzLuq0fdoEJu5-vN_UMaDHkKYy1IZWtxZxZEMyABKgl1cy1lYXN0LTEwjwg.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="324.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/324_%28CCMA%29_logo.svg/revision/latest/scale-to-width-down/512" group-title="News",3/24 (1080p)
+https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:-1 tvg-id="Canal7TeleValencia.es" tvg-logo="https://i.imgur.com/ILfXDRs.png" group-title="General",7 TeleValencia (576p)
+https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
+#EXTINF:-1 tvg-id="La7.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/La_7_logo.svg/150px-La_7_logo.svg.png" group-title="Undefined",7 Televisión Región de Murcia (1080p)
+https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="8LaMarinaTV.es" tvg-logo="https://i.imgur.com/BTJvvBK.png" group-title="General",8 La Marina TV (576p)
+https://streaming005.gestec-video.com/hls/canal24.m3u8
+
+#EXTINF:-1 tvg-id="24HorasInternacional.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="News",24 Horas Internacional [Geo-blocked]
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1 tvg-id="28kanala.es" tvg-logo="https://i.imgur.com/DyvK28q.png" group-
+
+#EXTINF:-1 tvg-id="101tvMalaga.es" tvg-logo="https://yt3.googleusercontent.com/IIUzjqsChpzsjIafaLfwhZltNxslCol_0xoGEgNvquhPtyeQW03tDUN7yiTiiaININ2UUjmzXO4=s512-c-k-c0x00ffffff-no-rj" group-title="News",101tv Málaga (1080p)
+https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
+
+
+#EXTINF:-1 tvg-id="ArabiTV.es" tvg-logo="https://i.ibb.co/9Vp9Ghg/LOGO-WEB-ARABI-TV-3.png" group-title="General",Arabí TV (1080p)
+https://streamtv2.elitecomunicacion.cloud:3956/live/arabitvlive.m3u8
+#EXTINF:-1 tvg-id="Canal4Catalunya.es" tvg-logo="https://i.imgur.com/tQh8C3s.png" group-title="General",Canal 4 Catalunya (1080p)
+https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
+
+#EXTINF:-1 tvg-id="CanalSanRoque.es" tvg-logo="https://i.imgur.com/QBzvCJc.png" group-title="Undefined",Canal San Roque (1080p) [Not 24/7]
+https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CetelmonTV.es" tvg-logo="https://i.imgur.com/GGn7itj.png" group-title="Religious",Cetelmón TV (404p)
+http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8
+
+#EXTINF:-1 tvg-id="DistritoTV.es" tvg-logo="https://i.imgur.com/AqGIoIt.png" group-title="Undefined",Distrito TV (1080p)
+https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
+
+#EXTINF:-1 tvg-id="DurangaldekoTelebista.es" tvg-logo="https://i.imgur.com/qdlW6cg.png" group-title="General",Durangaldeko Telebista (576p)
+https://nlb2-live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8
+
+#EXTINF:-1 tvg-id="PieraTV.es" tvg-logo="https://i.imgur.com/R4BzwqR.png" group-title="Undefined",Piera TV (720p) [Not 24/7]
+http://51.254.47.72:1935/piera/smil:piera.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="Teleganes.es" tvg-logo="https://i.imgur.com/BXyplMX.png" group-title="Undefined",Teleganés (720p)
+https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8
+
+#EXTINF:-1 tvg-id="Teleonuba.es" tvg-logo="https://i.imgur.com/cHMfmO7.png" group-title="Undefined",Teleonuba (1080p)
+https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/endirecto/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Trece.es" tvg-logo="https://i.imgur.com/Fbti7Ln.png" group-title="Religious",Trece TV (576p)
+https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVAlmassora.es" tvg-logo="https://i.imgur.com/syeJXGh.png" group-title="General",TV Almassora (720p)
+https://live.fullsport.es/hls/tvalmassora.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Playboy" tvg-logo="http://panoramadirecto.com.ar/wp-content/uploads/2017/05/PBISOLOGOAplicPrincipalROJO.png" group-title="ADULT",Playboy
+https://live.adultiptv.net/fetish.m3u8
+
+#EXTINF:-1 tvg-id="lesbian" tvg-logo="http://panoramadirecto.com.ar/wp-content/uploads/2017/05/PBISOLOGOAplicPrincipalROJO.png" group-title="ADULT",lesbian
+https://live.adultiptv.net/lesbian.m3u8
+
+
+
