@@ -76,13 +76,15 @@ https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CswFIsK9vEqYS2GdR47iMiaFU5u
 https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CrMFfdvdqSXamVsD81CsOxzgsmEYWKuuMnbL0Ey_wPFVwPtqTjwCGPM3lr9y7TDvuUyGsOwlG4uUQsCYiP9HbgJLEKB9D_B82dpGIuxt5xb-imGEi56cCF1ejpAOfGWWLLXY0c9hSfMEVnnUECCMj7BopNElAWRLFr0aEwsbsrSMvIEJm60egdjycYKng7UgkPsJu_l_PAsHM_PaaU3sJmglmRhMoJWfxMd88znszSVuYa8dXG9TQ9Mzl_WxZu6sd2-sDDa8jKep93eqPUZ3G2Wgm87BYM6gJu-u5L7GHKEbpbKXepYqGFrdZmrCbvSoUgIar_I202nlTemM6wR8sFh99NrIOthseFQvWzvYJ1mhvR4Zotv1c1QTM-H05wM3RQrCGQ9_zD4t51vh0-7dvhc1BwT1hPzAB_mO2V8Z-x_Tz6mcH5aY3Xmn0owzs_oxgOQIzY1G3CbtK89u4ZA-bgcna8BPXA2nZiUAgc-cnLOrrtAxa0v3BoEgmh6F3O1aAaLotKOY9uqEigzPsjEKYCStkfP3NskKh1nGKCahXRzoNDtNshrJQi3zCCZIpGF58499QbeEwJI49Pg8l3sFZB-yr9u_ymvnM6EueTO5jux_2T0EW0E0X4I24lH0XCllRmoD4RN5VADTY5yOb0JuQw9W1xds_BE-IHBQLKUscfyEgDdvnJrowgVG5kWa_srLUHsa0NnTFo3nzrHzy-7YWwRH6lbIW_yu4qejPrJet-mgNG5Lx84n8qG1NZdmsUDk4vI7LM4aM4RiFPW2rJqZAAMBFcBxoKcQy1nyWMKbhFYnj8ZcoocZbWLIoqsVvjX8Qc2CAvHU-s61Byp3d4bXs6uuKRKsQb5BX4M8D8N_BZOAw7tni2Bxh75FbFxN0DW7xBiZZkZRA7VVe39rIOvfURpm_UZ5BxoMhJJtWI2LzhoHjWw_IAEqCXVzLWVhc3QtMTCRCA.m3u8
 
 
-
+#*****************************
+SPAÑA
+#*****************************
 
 #EXTINF:-1 tvg-id="324.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/324_%28CCMA%29_logo.svg/revision/latest/scale-to-width-down/512" group-title="News",3/24 (1080p)
 https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:-1 tvg-id="Canal7TeleValencia.es" tvg-logo="https://i.imgur.com/ILfXDRs.png" group-title="General",7 TeleValencia (576p)
 https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
-#EXTINF:-1 tvg-id="La7.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/La_7_logo.svg/150px-La_7_logo.svg.png" group-title="Undefined",7 Televisión Región de Murcia (1080p)
+#EXTINF:-1 tvg-id="La7.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/La_7_logo.svg/150px-La_7_logo.svg.png" group-title="News",7 Televisión Región de Murcia (1080p)
 https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="8LaMarinaTV.es" tvg-logo="https://i.imgur.com/BTJvvBK.png" group-title="General",8 La Marina TV (576p)
 https://streaming005.gestec-video.com/hls/canal24.m3u8
@@ -92,7 +94,6 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="101tvMalaga.es" tvg-logo="https://yt3.googleusercontent.com/IIUzjqsChpzsjIafaLfwhZltNxslCol_0xoGEgNvquhPtyeQW03tDUN7yiTiiaININ2UUjmzXO4=s512-c-k-c0x00ffffff-no-rj" group-title="News",101tv Málaga (1080p)
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
-
 
 #EXTINF:-1 tvg-id="ArabiTV.es" tvg-logo="https://i.ibb.co/9Vp9Ghg/LOGO-WEB-ARABI-TV-3.png" group-title="General",Arabí TV (1080p)
 https://streamtv2.elitecomunicacion.cloud:3956/live/arabitvlive.m3u8
@@ -127,15 +128,60 @@ https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/play
 https://live.fullsport.es/hls/tvalmassora.m3u8 
 
 
+#*****************************
+ANIME
+#*****************************
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b0be1e3ddbc37ae133fd52e75a94fe0.webp" group-title="ANIME", Retro Cartoon | SD
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w676034648.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8e2460502f204b225c89d644e88153a8.webp" group-title="ANIME", Anime TV | SD
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+https://stmv1.srvif.com/animetv/animetv/chunklist_w1769730028.m3u8
+
+#EXTINF:-1 tvg-id="476" tvg-name="WOW TV" tvg-logo="https://www.m3u.cl/logo/476_WOW_TV.png" group-title="ANIME", WOW TV  | SV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="488" tvg-name="Anime Zone TV" tvg-logo="https://www.m3u.cl/logo/488_Anime_Zone_TV.png" group-title="ANIME", Anime Zone TV  | AR
+http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="486" tvg-name="Orbit TV" tvg-logo="https://www.m3u.cl/logo/486_Orbit_TV.png" group-title="ANIME", Orbit TV  | DO
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
+
+
+#*****************************
+
+#*****************************
 
 
 
 
-#EXTINF:-1 tvg-id="Playboy" tvg-logo="http://panoramadirecto.com.ar/wp-content/uploads/2017/05/PBISOLOGOAplicPrincipalROJO.png" group-title="ADULT",Playboy
+
+
+
+
+
+#*****************************
+ADULT
+#*****************************
+#EXTINF:-1 tvg-id="Playboy" tvg-logo="https://www.m3u.cl/logo/945_Lesbian.png" group-title="ADULT",Playboy
 https://live.adultiptv.net/fetish.m3u8
 
-#EXTINF:-1 tvg-id="lesbian" tvg-logo="http://panoramadirecto.com.ar/wp-content/uploads/2017/05/PBISOLOGOAplicPrincipalROJO.png" group-title="ADULT",lesbian
-https://live.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-id="945" tvg-name="Lesbian" tvg-logo="https://www.m3u.cl/logo/945_Lesbian.png" group-title="ADULT", Lesbian  | US
+http://cdn.adultiptv.net/lesbian.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/74/Logotipo_da_Playboy_TV.png" group-title="ADULT", PlayboyX Tv
+http://live.redtraffic.xyz/latina.m3u8
 
+#EXTINF:-1 tvg-logo="http://jarytec.com/wp-content/uploads/2017/02/logoxxx-1.png" group-title="ADULT", PenthouseX
+http://live.redtraffic.xyz/pornstar.m3u8
 
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png" group-title="ADULT", Sextreme
+http://live.redtraffic.xyz/fetish.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tps.uk.com/img/products/120/Brazzers-TV-Viaccess-12-month.jpg" group-title="ADULT", BRAZZERS
+http://live.redtraffic.xyz/bigtits.m3u8
+
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/4/48/Logo_venus_out_color.jpg" group-title="ADULT", VENUS
+http://live.redtraffic.xyz/interracial.m3u8
