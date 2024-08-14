@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Detalles del Viaje</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="container mt-4">
+      <button class="btn btn-secondary mb-3">← Volver Atrás</button>
+      <div class="row">
+        <div class="col-md-6">
+          <form>
+            <div class="mb-3">
+              <label for="ciudad-origen" class="form-label"
+                >Ciudad de Origen*</label
+              >
+              <select class="form-select" id="ciudad-origen">
+                <option selected>Selecciona una</option>
+              </select>
+            </div>
+            <div class="mb-3">
+              <label for="lugar-destino" class="form-label"
+                >Lugar de Destino*</label
+              >
+              <select class="form-select" id="lugar-destino">
+                <option selected>Selecciona una</option>
+              </select>
+            </div>
+            <div class="mb-3">
+              <label class="form-label">Tipo de Recorrido*</label>
+              <div class="btn-group d-flex" role="group">
+                <input
+                  type="radio"
+                  class="btn-check"
+                  name="tipo-recorrido"
+                  id="solo-ida"
+                  autocomplete="off"
+                  checked
+                />
+                <label class="btn btn-outline-primary" for="solo-ida"
+                  >Sólo ida o solo regreso</label
+                >
+                <input
+                  type="radio"
+                  class="btn-check"
+                  name="tipo-recorrido"
+                  id="ida-regreso-mismo-dia"
+                  autocomplete="off"
+                />
+                <label
+                  class="btn btn-outline-primary"
+                  for="ida-regreso-mismo-dia"
+                  >Ida y Regreso el mismo día</label
+                >
+              </div>
+              <div class="btn-group d-flex mt-2" role="group">
+                <input
+                  type="radio"
+                  class="btn-check"
+                  name="tipo-recorrido"
+                  id="ida-regreso-sin-disponibilidad"
+                  autocomplete="off"
+                />
+                <label
+                  class="btn btn-outline-primary"
+                  for="ida-regreso-sin-disponibilidad"
+                  >Ida y regreso sin Disponibilidad del vehículo</label
+                >
+                <input
+                  type="radio"
+                  class="btn-check"
+                  name="tipo-recorrido"
+                  id="ida-vuelta-traslados"
+                  autocomplete="off"
+                />
+                <label
+                  class="btn btn-outline-primary"
+                  for="ida-vuelta-traslados"
+                  >Ida y Vuelta con traslados adicionales</label
+                >
+              </div>
+            </div>
+            <div class="mb-3">
+              <label for="fecha-inicio" class="form-label"
+                >Fecha de Inicio</label
+              >
+              <input type="date" class="form-control" id="fecha-inicio" />
+            </div>
+          </form>
+        </div>
+        <div class="col-md-6">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title">
+                Completa todos los campos para ver el Precio Estimado de tu
+                servicio.
+              </h5>
+              <p><strong>Tipo de Vehículo:</strong> Camioneta 4 pasajeros</p>
+              <p><strong>Desde:</strong></p>
+              <p><strong>Hacia:</strong></p>
+              <p><strong>Días de Viaje:</strong> 1 día(s)</p>
+              <p><strong>Kilómetros:</strong> ...</p>
+              <p><strong>Tiempo de Viaje:</strong> ...</p>
+              <p>
+                <strong>Descripción del Recorrido:</strong> Sólo ida: Te dejamos
+                en tu destino y nos devolvemos inmediatamente.
+              </p>
+              <p>
+                <strong>Precio Estimado:</strong> El valor tiene 1 día de
+                validez
+              </p>
+              <button class="btn btn-primary mt-3">Ver Precio Estimado</button>
+              <a href="#" class="btn btn-success mt-3"
+                >¿Tienes dudas? Whatsapp</a
+              >
+              <a href="#" class="mt-2 d-block">Ver Condiciones</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>
