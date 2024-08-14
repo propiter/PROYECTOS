@@ -1,4 +1,4 @@
-# Practicas-JS--Basico
+# PROYECTOS
 
 mis practicas Sena
 este es mi repositorio donde compartire todas las
