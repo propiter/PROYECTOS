@@ -2,3 +2,6 @@
 /C\#
 C#/Api_App_Segura
 node_modules
+.venv
+.vscode
+node_modules
