@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <title>APP-SEGURA</title>
+  <link rel="shortcut icon" href="../img/logo.jpg" />
+  <meta name="google" content="notranslate" />
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <link href="../css/Estilos.css" rel="stylesheet" />
+</head>
+
+<body>
+  <header>
+    <!-- Encabezado-->
+  </header>
+  <main>
+    <div class="container shadow bg-info-subtle m-5 border border-primary-subtle border-5 rounded-5 col-lg-4 mx-auto ">
+      <div class="container shadow bg-white border rounded-5 rounded-bottom-circle">
+        <div class="col">
+          <div class="col">
+            <div class="row p-5">
+              <div class="col-4">
+                <img src="../img/logo.jpg" alt=""
+                  class="img-fluid rounded-circle shadow p-1 mb-2 bg-body-secondary responsive-logo" />
+
+              </div>
+
+              <div class="col-8">
+                <h3 class="card-title p-3">APP-SEGURA</h3>
+                <p class="card-text">Bienvenido a tu inicio de sesión</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row justify-content-end ">
+        <div class="col-2 mx-2 ">
+          <a href="contacto.html" class="btn-group me-2 btn-outline-primary">
+            <i
+              class="large material-icons img-fluid rounded-circle shadow p-1 mb-2 bg-body-secondary">contact_support</i>
+
+          </a>
+
+        </div>
+      </div>
+      <form id="LoginForm" class="mt-4 needs-validation mx-auto" novalidate>
+        <div class="row align-items-center">
+          <div class="col-12 mx-auto">
+            <div class="input-group mb-3">
+              <span class="input-group-text">
+                <span class="material-symbols-outlined"> mail </span>
+              </span>
+
+              <div class="form-floating">
+                <input type="email" class="form-control" name="correo" id="correo" placeholder="name@example.com"
+                  required />
+                <label for="floatingInput">Ingresa tu Correo</label>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- contraseña -->
+
+        <div class="row">
+          <div class="col-12 mt-2">
+            <div class="input-group mb-2">
+              <span class="input-group-text">
+                <span class="material-symbols-outlined"> key </span>
+              </span>
+              <div class="form-floating">
+                <input type="password" class="form-control" name="contraseña" id="password" placeholder="Contraseña" />
+                <span class="fa fa-fw fa-eye password-icon show-password"></span>
+                <label for="formId1">Ingresa tu Contraseña</label>
+
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+        <div class="row text-start">
+          <div class="col-4 mx-auto">
+            <div class="form-check">
+              <input class="form-check-input" type="checkbox" value="" id="check" />
+              <label class="form-check-label" for="check"> Recordarme </label>
+            </div>
+          </div>
+          <div class="col-6 mx-auto justify-content-end text-end">
+            <a class="icon-link icon-link-hover" style="--bs-icon-link-transform: translate3d(0, -.125rem, 0);"
+              href="EnviarToken.html">
+              <svg class="bi" aria-hidden="true">
+                <use xlink:href="#clipboard"></use>
+              </svg>
+              Recordar contraseña
+            </a>
+          </div>
+        </div>
+        <div class="row mt-4">
+          <div class="col d-grid col-md-4 mx-auto  g-3">
+            <button type="submit" class="btn btn-outline-primary">
+              Iniciar Sesion
+            </button>
+          </div>
+        </div>
+
+        <div class="row justify-content-center text-center">
+          <div class="col-12 col-md-12 mb-4 g-2">No tienes una cuenta?
+            <a class="icon-link icon-link-hover" style="--bs-icon-link-transform: translate3d(0, -.125rem, 0);"
+              href="formRegistro.html">
+              <svg class="bi" aria-hidden="true">
+                <use xlink:href="#clipboard"></use>
+              </svg>
+              Registrate
+            </a>
+          </div>
+        </div>
+
+      </form>
+
+      <div class="container shadow bg-white border rounded-5 rounded-top-circle">
+        <div class="col">
+          <div class="col">
+            <div class="row p-5 d-grid g-2 col-md-4 mx-auto mb-2">
+              <div class="col ">
+                <div class="col d-flex justify-content-center ">
+                  <a href="index.html" class="btn btn-outline-primary">
+                    <i class="large material-icons img-fluid rounded-circle shadow p-1 mb-2 bg-body-secondary">home</i>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+  </main>
+  </div>
+  <footer>
+    <!-- Pie de Pagina -->
+  </footer>
+  <script src="../js/externalScripts.js"></script>
+  <script src="../js/iniciarSesion.js"></script>
+</body>
+
+</html>

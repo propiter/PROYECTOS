@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>APP-SEGURA</title>
+  <link rel="shortcut icon" href="../img/logo.jpg" />
+  <meta name="google" content="notranslate" />
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <link href="../css/Estilos.css" rel="stylesheet" />
+</head>
+
+<body>
+  <header>
+    <!-- place navbar here -->
+  </header>
+  <main>
+    <div class="container shadow bg-info-subtle m-5 border border-primary-subtle border-5 rounded-5 col-lg-4 mx-auto ">
+      <div class="container shadow bg-white border rounded-5 rounded-bottom-circle">
+        <div class="col">
+          <div class="col">
+            <div class="row p-5">
+              <div class="col-4">
+                <img src="../img/logo.jpg" alt="" class="img-fluid rounded-circle shadow p-1 mb-2 bg-body-secondary" />
+                <!-- notice the "circle" class -->
+              </div>
+
+              <div class="col-8">
+                <h3 class="card-title p-3">APP-SEGURA</h3>
+                <p class="card-text">Restablecer Contraseña</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row justify-content-end ">
+        <div class="col-2 mx-2 ">
+          <a href="contacto.html" class="btn-group me-2 btn-outline-primary">
+            <i
+              class="large material-icons img-fluid rounded-circle shadow p-1 mb-2 bg-body-secondary">contact_support</i>
+
+          </a>
+
+        </div>
+      </div>
+      <form class="row g-1 mt-5 needs-validation form-4" novalidate>
+
+        <div class="row">
+          <div class="col-12 mt-2">
+            <div class="input-group mb-2">
+              <div class="input-group-text">
+                <span class="material-symbols-outlined">password</span>
+                </span>
+              </div>
+              <div class="form-floating">
+                <input type="text" class="form-control" name="token" id="token" placeholder="ingrese tu Token"
+                  minlength="6" pattern="[0-9]+" required />
+
+                <label for="floatingInput">Ingresa tu Token</label>
+                <div class="invalid-tooltip">
+                  el token debe ser Numerico de 6 dijitos sin espacios
+                </div>
+              </div>
+
+            </div>
+          </div>
+        </div>
+
+        <!-- contraseña -->
+
+        <div class="row">
+          <div class="col-12 mt-2">
+            <div class="input-group mb-2">
+              <span class="input-group-text">
+                <span class="material-symbols-outlined"> key </span>
+              </span>
+              <div class="form-floating">
+                <input type="password" class="form-control" name="contraseña" id="password" placeholder="Contraseña"
+                  minlength="8" required />
+                <span class="fa fa-fw fa-eye password-icon show-password"></span>
+                <label for="floatingInput">Ingresa tu Nueva Contraseña</label>
+                <div class="invalid-tooltip">
+                  La contraseña debe tener minimo 8 caracteres
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+        <div class="row mb-5 mt-5">
+          <div class="col d-grid col-md-4 mx-auto  g-3">
+            <button type="submit" class="btn btn-outline-primary">
+              Cambiar Contraseña
+            </button>
+          </div>
+        </div>
+
+
+
+
+
+
+
+      </form>
+
+      <div class="container shadow bg-white border rounded-5 rounded-top-circle">
+        <div class="col">
+          <div class="col">
+            <div class="row p-5 d-grid g-2 col-md-4 mx-auto mb-2">
+              <div class="col ">
+                <div class="col d-flex justify-content-center ">
+                  <a href="index.html" class="btn btn-outline-primary">
+                    <i class="large material-icons img-fluid rounded-circle shadow p-1 mb-2 bg-body-secondary">home</i>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+  </main>
+
+  <footer>
+    <!-- place footer here -->
+  </footer>
+  <script src="../js/externalScripts.js"></script>
+  <script src="../js/RestablecerContraseña.js"></script>
+</body>
+
+</html>
