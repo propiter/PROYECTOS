@@ -1,0 +1,86 @@
+2024-11-07 03:52:06.182 [main] INFO  com.rs.mv.mvvs.Startup - [LSP:100101]ROCKET MV BASIC EXTENSION to start
+2024-11-07 03:52:06.228 [main] INFO  com.rs.mv.mvvs.lsp.server.BasicLanguageServerLauncher - [LSP:100102]start pip server
+2024-11-07 03:52:06.465 [main] INFO  com.rs.mv.mvvs.lsp.server.BasicLanguageServerLauncher - [LSP:100103]ROCKET MV BASIC EXTENSION start successful
+2024-11-07 03:52:06.593 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.WorkspaceManager - [workspace:200101]load all workspace folders start
+2024-11-07 03:52:06.594 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.WorkspaceManager - [workspace:20010201]root uri: file:///c%3A/Users/Piter/OneDrive%20-%20SENA/AN%C3%81LISIS%20Y%20DESARROLLO%20DE%20SOFTWARE/PROYECTOS
+2024-11-07 03:52:06.597 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.handler.FolderHandler - [workspace:200103]workspace contains workspace folder: file:///c%3A/Users/Piter/OneDrive%20-%20SENA/AN%C3%81LISIS%20Y%20DESARROLLO%20DE%20SOFTWARE/PROYECTOS
+2024-11-07 03:52:06.635 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.handler.FolderHandler - [workspace:200104]workspace folder will be cached: file:///c%3A/Users/Piter/OneDrive%20-%20SENA/AN%C3%81LISIS%20Y%20DESARROLLO%20DE%20SOFTWARE/PROYECTOS
+2024-11-07 03:52:06.639 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010101]config load start
+2024-11-07 03:52:06.641 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010102]project config path is : C:/Users/Piter/OneDrive - SENA/ANÁLISIS Y DESARROLLO DE SOFTWARE/PROYECTOS/.rmv/config
+2024-11-07 03:52:06.642 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010103]resource config path is : /
+2024-11-07 03:52:06.643 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010104]user config path is : C:/Users/Piter
+2024-11-07 03:52:06.682 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010105]config load end
+2024-11-07 03:52:06.687 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.BasicDocumentation - [framework:30020101]documentation load start
+2024-11-07 03:52:06.689 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.reader.SystemDocReader - [framework:30020102]system documentation path: /documentation/UNIVERSE/
+2024-11-07 03:52:06.697 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.reader.ProjectDocReader - [framework:30020103]project documentation brief file: C:\Users\Piter\OneDrive - SENA\ANÁLISIS Y DESARROLLO DE SOFTWARE\PROYECTOS\.rmv\documentation\UNIVERSE\custom.json
+2024-11-07 03:52:06.701 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.reader.UserDocReader - [framework:30020104]user documentation brief file: C:\Users\Piter\documentation\UNIVERSE\custom.json
+2024-11-07 03:52:06.880 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.BasicDocumentation - [framework:30020105]documentation load end
+2024-11-07 03:52:06.898 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030101]convertors for folder(C:/Users/Piter/OneDrive - SENA/ANÁLISIS Y DESARROLLO DE SOFTWARE/PROYECTOS) load start
+2024-11-07 03:52:06.950 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030102]comment convertor load finish
+2024-11-07 03:52:07.507 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030103]keyword convertor load finish
+2024-11-07 03:52:07.510 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030104]operator convertor load finish
+2024-11-07 03:52:07.511 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030105]function name convertor load finish
+2024-11-07 03:52:07.512 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030106]atVariable convertor load finish
+2024-11-07 03:52:07.512 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030107]convertors for folder(C:/Users/Piter/OneDrive - SENA/ANÁLISIS Y DESARROLLO DE SOFTWARE/PROYECTOS) load end
+2024-11-07 03:52:07.513 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.handler.FolderHandler - [workspace:200103]workspace contains workspace folder: file:///c%3A/xampp/htdocs/proyectomvc
+2024-11-07 03:52:07.514 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.handler.FolderHandler - [workspace:200104]workspace folder will be cached: file:///c%3A/xampp/htdocs/proyectomvc
+2024-11-07 03:52:07.514 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010101]config load start
+2024-11-07 03:52:07.515 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010102]project config path is : C:/xampp/htdocs/proyectomvc/.rmv/config
+2024-11-07 03:52:07.515 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010103]resource config path is : /
+2024-11-07 03:52:07.515 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010104]user config path is : C:/Users/Piter
+2024-11-07 03:52:07.534 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010105]config load end
+2024-11-07 03:52:07.534 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.BasicDocumentation - [framework:30020101]documentation load start
+2024-11-07 03:52:07.535 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.reader.SystemDocReader - [framework:30020102]system documentation path: /documentation/UNIVERSE/
+2024-11-07 03:52:07.537 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.reader.ProjectDocReader - [framework:30020103]project documentation brief file: C:\xampp\htdocs\proyectomvc\.rmv\documentation\UNIVERSE\custom.json
+2024-11-07 03:52:07.538 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.reader.UserDocReader - [framework:30020104]user documentation brief file: C:\Users\Piter\documentation\UNIVERSE\custom.json
+2024-11-07 03:52:07.564 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.BasicDocumentation - [framework:30020105]documentation load end
+2024-11-07 03:52:07.566 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030101]convertors for folder(C:/xampp/htdocs/proyectomvc) load start
+2024-11-07 03:52:07.566 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030102]comment convertor load finish
+2024-11-07 03:52:07.573 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030103]keyword convertor load finish
+2024-11-07 03:52:07.575 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030104]operator convertor load finish
+2024-11-07 03:52:07.577 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030105]function name convertor load finish
+2024-11-07 03:52:07.577 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030106]atVariable convertor load finish
+2024-11-07 03:52:07.578 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030107]convertors for folder(C:/xampp/htdocs/proyectomvc) load end
+2024-11-07 03:52:07.579 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.handler.FolderHandler - [workspace:200103]workspace contains workspace folder: file:///c%3A/xampp/htdocs/TURISMO
+2024-11-07 03:52:07.579 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.handler.FolderHandler - [workspace:200104]workspace folder will be cached: file:///c%3A/xampp/htdocs/TURISMO
+2024-11-07 03:52:07.580 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010101]config load start
+2024-11-07 03:52:07.580 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010102]project config path is : C:/xampp/htdocs/TURISMO/.rmv/config
+2024-11-07 03:52:07.580 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010103]resource config path is : /
+2024-11-07 03:52:07.580 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010104]user config path is : C:/Users/Piter
+2024-11-07 03:52:07.590 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010105]config load end
+2024-11-07 03:52:07.591 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.BasicDocumentation - [framework:30020101]documentation load start
+2024-11-07 03:52:07.591 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.reader.SystemDocReader - [framework:30020102]system documentation path: /documentation/UNIVERSE/
+2024-11-07 03:52:07.593 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.reader.ProjectDocReader - [framework:30020103]project documentation brief file: C:\xampp\htdocs\TURISMO\.rmv\documentation\UNIVERSE\custom.json
+2024-11-07 03:52:07.594 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.reader.UserDocReader - [framework:30020104]user documentation brief file: C:\Users\Piter\documentation\UNIVERSE\custom.json
+2024-11-07 03:52:07.610 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.BasicDocumentation - [framework:30020105]documentation load end
+2024-11-07 03:52:07.612 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030101]convertors for folder(C:/xampp/htdocs/TURISMO) load start
+2024-11-07 03:52:07.614 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030102]comment convertor load finish
+2024-11-07 03:52:07.620 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030103]keyword convertor load finish
+2024-11-07 03:52:07.623 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030104]operator convertor load finish
+2024-11-07 03:52:07.624 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030105]function name convertor load finish
+2024-11-07 03:52:07.624 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030106]atVariable convertor load finish
+2024-11-07 03:52:07.625 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030107]convertors for folder(C:/xampp/htdocs/TURISMO) load end
+2024-11-07 03:52:07.626 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.handler.FolderHandler - [workspace:200103]workspace contains workspace folder: file:///c%3A/Users/Piter/OneDrive%20-%20SENA/AN%C3%81LISIS%20Y%20DESARROLLO%20DE%20SOFTWARE/CURSO%20JS%20MODERNO
+2024-11-07 03:52:07.627 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.handler.FolderHandler - [workspace:200104]workspace folder will be cached: file:///c%3A/Users/Piter/OneDrive%20-%20SENA/AN%C3%81LISIS%20Y%20DESARROLLO%20DE%20SOFTWARE/CURSO%20JS%20MODERNO
+2024-11-07 03:52:07.629 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010101]config load start
+2024-11-07 03:52:07.630 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010102]project config path is : C:/Users/Piter/OneDrive - SENA/ANÁLISIS Y DESARROLLO DE SOFTWARE/CURSO JS MODERNO/.rmv/config
+2024-11-07 03:52:07.631 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010103]resource config path is : /
+2024-11-07 03:52:07.632 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010104]user config path is : C:/Users/Piter
+2024-11-07 03:52:07.650 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.Config - [framework:30010105]config load end
+2024-11-07 03:52:07.651 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.BasicDocumentation - [framework:30020101]documentation load start
+2024-11-07 03:52:07.654 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.reader.SystemDocReader - [framework:30020102]system documentation path: /documentation/UNIVERSE/
+2024-11-07 03:52:07.660 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.reader.ProjectDocReader - [framework:30020103]project documentation brief file: C:\Users\Piter\OneDrive - SENA\ANÁLISIS Y DESARROLLO DE SOFTWARE\CURSO JS MODERNO\.rmv\documentation\UNIVERSE\custom.json
+2024-11-07 03:52:07.661 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.reader.UserDocReader - [framework:30020104]user documentation brief file: C:\Users\Piter\documentation\UNIVERSE\custom.json
+2024-11-07 03:52:07.680 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.documentation.BasicDocumentation - [framework:30020105]documentation load end
+2024-11-07 03:52:07.682 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030101]convertors for folder(C:/Users/Piter/OneDrive - SENA/ANÁLISIS Y DESARROLLO DE SOFTWARE/CURSO JS MODERNO) load start
+2024-11-07 03:52:07.684 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030102]comment convertor load finish
+2024-11-07 03:52:07.696 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030103]keyword convertor load finish
+2024-11-07 03:52:07.699 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030104]operator convertor load finish
+2024-11-07 03:52:07.701 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030105]function name convertor load finish
+2024-11-07 03:52:07.702 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030106]atVariable convertor load finish
+2024-11-07 03:52:07.703 [pool-3-thread-1] INFO  com.rs.mv.mvvs.common.convertor.ConvertorManager - [framework:30030107]convertors for folder(C:/Users/Piter/OneDrive - SENA/ANÁLISIS Y DESARROLLO DE SOFTWARE/CURSO JS MODERNO) load end
+2024-11-07 03:52:07.708 [pool-3-thread-1] INFO  com.rs.mv.mvvs.rmv.config.CapabilityConfig - [framework:30010301]capabilities file(C:/Users/Piter/OneDrive - SENA/ANÁLISIS Y DESARROLLO DE SOFTWARE/PROYECTOS/config/capability) doesn't exist or read error, default config will take effect
+2024-11-07 03:52:07.709 [pool-3-thread-1] INFO  com.rs.mv.mvvs.instance.workspace.WorkspaceManager - [workspace:200105]load all workspace folders successful
+2024-11-07 03:52:07.713 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.account.AccountManager - [client:40010101]load account manager start
+2024-11-07 03:52:07.746 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.account.handler.CacheAccountHandler - [client:40010102]load cache account: 
+2024-11-07 03:52:07.755 [pool-3-thread-1] INFO  com.rs.mv.mvvs.client.account.handler.ExternalAccountHandler - [client:40010103]load external account: 
