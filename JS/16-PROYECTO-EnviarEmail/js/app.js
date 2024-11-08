@@ -45,7 +45,7 @@ document.addEventListener("DOMContentLoaded", function(){
             // crear alerta de exito
             const alertaexito = document.createElement("P");
             alertaexito.classList.add("bg-green-500", "text-white", "p-2", "font-bold")
-            alertaexito.textContent = "enviado"
+            alertaexito.textContent = "Mensaje enviado con exito (simulacion)"
             formulario.appendChild(alertaexito)
             
             setTimeout(()=>{
@@ -106,9 +106,14 @@ document.addEventListener("DOMContentLoaded", function(){
 
     function comprobarEmail(){
         console.log(email);
-        if(Object.values(email).includes("")){
+        if(//Object.values(email).includes("")
+            email.email.trim() === "" ||
+            email.asunto.trim() === "" ||
+            email.mensaje.trim() === "" ||
+            (email.emailCC.trim() !==  "" && email.emailCC.trim() === "")
+        ){
             btnSubmit.classList.add("opacity-50");
-            btnSubmit.ariaDisabled = true
+            btnSubmit.disabled = true
             return
         } 
             btnSubmit.classList.remove("opacity-50");
@@ -127,9 +132,3 @@ document.addEventListener("DOMContentLoaded", function(){
     }
 
 })
-
-
-
-
-
-
