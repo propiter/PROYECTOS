@@ -1,4 +1,4 @@
-const { pool } = require('../db');
+const { pool } = require('../config/db');
 
 // Crear un cliente
 const crearCliente = async (nombre, telefono, email) => {

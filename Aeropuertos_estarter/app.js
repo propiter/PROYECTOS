@@ -10,12 +10,11 @@ connectDB();
 // Middlewares
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
-app.use(express.static(path.join(__dirname, 'public')));
+//app.use(express.static(path.join(__dirname, 'public')));
 
 // Rutas
-//app.use('/api/index', require('./routes/index.js'));
-//app.use('/api/reservas', require('./routes/reservas.js'));
-//app.use('/api/clientes', require('./routes/clientesRoutes'));
+app.use('/api/reservas', require('./routes/reservasRouter.js'));
+app.use('/api/clientes', require('./routes/clientesRoutes'));
 
 // Middleware de manejo de errores
 app.use((err, req, res, next) => {
