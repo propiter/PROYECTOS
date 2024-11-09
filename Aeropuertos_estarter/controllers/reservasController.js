@@ -1,15 +1,7 @@
 const reservasModel = require('../models/reservasModel');
 
 // Controlador para crear una reservas
-const crearReserva = async (req, res) => {
-    const { nombre, telefono, email } = req.body;
-    try {
-        const reservas = await reservasModel.crearReserva(nombre, telefono, email);
-        res.status(201).json(reservas);
-    } catch (error) {
-        res.status(500).json({ message: 'Error al crear reservas' });
-    }
-};
+
 
 // Controlador para obtener todas las reservas
 const obtenerReservas = async (req, res) => {
@@ -21,7 +13,7 @@ const obtenerReservas = async (req, res) => {
     }
 };
 
-// Controlador para obtener un cliente por ID
+// Controlador para obtener una reserva por ID
 const obtenerreservasPorId = async (req, res) => {
     const { id } = req.params;
     try {
@@ -34,7 +26,7 @@ const obtenerreservasPorId = async (req, res) => {
 
 
 module.exports = {
-    crearReserva,
+    
     obtenerReservas,
     obtenerreservasPorId
 };
