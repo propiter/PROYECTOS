@@ -13,8 +13,8 @@ app.use(express.urlencoded({ extended: true }));
 //app.use(express.static(path.join(__dirname, 'public')));
 
 // Rutas
-app.use('/api/reservas', require('./routes/reservasRouter.js'));
-app.use('/api/clientes', require('./routes/clientesRoutes'));
+app.use('/api/v1/reservas', require('./routes/reservasRouter.js'));
+app.use('/api/v1/clientes', require('./routes/clientesRoutes'));
 
 // Middleware de manejo de errores
 app.use((err, req, res, next) => {
