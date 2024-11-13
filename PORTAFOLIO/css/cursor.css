@@ -1,0 +1,31 @@
+/* cursor.css */
+.cursor {
+  width: 20px;
+  height: 20px;
+  border: 2px solid var(--primary);
+  border-radius: 50%;
+  position: fixed;
+  pointer-events: none;
+  z-index: 999;
+}
+
+.cursor-follower {
+  width: 8px;
+  height: 8px;
+  background: var(--secondary);
+  border-radius: 50%;
+  position: fixed;
+  pointer-events: none;
+  z-index: 999;
+}
+
+/* Custom cursor states */
+.cursor.hover {
+  transform: scale(1.5);
+  background: var(--gradient);
+  mix-blend-mode: difference;
+}
+
+.cursor-follower.hover {
+  opacity: 0;
+}

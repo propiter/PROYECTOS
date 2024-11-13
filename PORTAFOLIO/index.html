@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Portfolio</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/animations.css">
+    <link rel="stylesheet" href="css/cursor.css">
+</head>
+
+<body>
+    <div class="cursor"></div>
+    <div class="cursor-follower"></div>
+
+    <nav class="nav-menu">
+        <div class="logo">YourName._</div>
+        <ul class="nav-links">
+            <li><a href="#home" data-nav="01">// home</a></li>
+            <li><a href="#expertise" data-nav="02">// expertise</a></li>
+            <li><a href="#work" data-nav="03">// work</a></li>
+            <li><a href="#experience" data-nav="04">// experience</a></li>
+            <li><a href="#contact" data-nav="05">// contact</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="home" class="hero-section">
+            <div class="hero-content">
+                <h1 class="glitch-text">YOUR NAME</h1>
+                <p class="typewriter">SOFTWARE ENGINEER, FRONT END & APP DEVELOPER.</p>
+            </div>
+            <div class="hero-background">
+                <div class="floating-shape"></div>
+                <div class="glowing-orb"></div>
+            </div>
+        </section>
+
+        <section id="expertise" class="expertise-section">
+            <h2>My Expertise</h2>
+            <div class="expertise-grid">
+                <div class="expertise-card">
+                    <div class="card-icon">
+                        <i class="dev-icon"></i>
+                    </div>
+                    <h3>Software Development</h3>
+                    <p>Your expertise description here</p>
+                </div>
+                <!-- Add more expertise cards -->
+            </div>
+        </section>
+
+        <section id="work" class="work-section">
+            <h2>My Work</h2>
+            <div class="filter-buttons">
+                <button class="active" data-filter="all">All</button>
+                <button data-filter="web">Web Development</button>
+                <button data-filter="mobile">Mobile Apps</button>
+            </div>
+            <div class="projects-grid">
+                <!-- Projects will be populated via JavaScript -->
+            </div>
+        </section>
+
+        <section id="experience" class="experience-section">
+            <h2>Professional Experience</h2>
+            <div class="timeline">
+                <!-- Experience items will be populated via JavaScript -->
+            </div>
+        </section>
+
+        <section id="contact" class="contact-section">
+            <h2>Let's Connect</h2>
+            <div class="social-links">
+                <a href="#" class="social-icon messenger">Messenger</a>
+                <a href="#" class="social-icon linkedin">LinkedIn</a>
+                <a href="#" class="social-icon instagram">Instagram</a>
+                <a href="#" class="social-icon github">GitHub</a>
+                <a href="#" class="social-icon whatsapp">WhatsApp</a>
+                <a href="mailto:your@email.com" class="social-icon email">Email</a>
+            </div>
+        </section>
+    </main>
+
+    <script src="js/main.js" type="module"></script>
+</body>
+
+</html>

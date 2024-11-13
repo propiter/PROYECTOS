@@ -1,0 +1,16 @@
+**Node.js en Verso**
+
+Node.js, veloz y eficaz,  
+en el servidor, es un titán audaz.  
+Con JavaScript corre sin parar,  
+en el backend listo para brillar.  
+
+Promesas y callbacks en su danzar,  
+eventos en bucles, siempre al compás.  
+Con `npm` y módulos que integrar,  
+crea un mundo web, listo para actuar.  
+
+Oh, Node.js, en tu magia confío,  
+con Streams y APIs, jamás me desvío.  
+Eres asíncrono, eres virtual,  
+mi código fluye, en tiempo real.

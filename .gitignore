@@ -1,7 +1,9 @@
-
-/C\#
-C#/Api_App_Segura
+Aeropuertos_estarter/.env
+APP-SEGURA/.env
+APP-SEGURA/.vscode
+APP-SEGURA/API
 node_modules
 .venv
 .vscode
 node_modules
+.rmv
