@@ -1,9 +1,10 @@
 Aeropuertos_estarter/.env
+Aeropuertos_estarter/node_modules/
 APP-SEGURA/.env
 APP-SEGURA/.vscode
-APP-SEGURA/API
-node_modules
+APP-SEGURA/API/
+APP-SEGURA/node_modules/
+node_modules/
 .venv
 .vscode
-node_modules
-.rmv
+.rmvss

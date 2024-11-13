@@ -7,7 +7,7 @@
     "serve": "nodemon app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Pedro Rodriguez",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.3",
